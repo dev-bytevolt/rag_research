@@ -1,0 +1,660 @@
+﻿Summary,Issue key,Issue id,Issue Type,Status,Project key,Project name,Project type,Project lead,Project lead id,Project description,Project url,Priority,Resolution,Assignee,Assignee Id,Reporter,Reporter Id,Creator,Creator Id,Created,Updated,Last Viewed,Resolved,Due date,Votes,Description,Environment,Watchers,Watchers,Watchers,Watchers,Watchers Id,Watchers Id,Watchers Id,Watchers Id,Original estimate,Remaining Estimate,Time Spent,Work Ratio,Σ Original Estimate,Σ Remaining Estimate,Σ Time Spent,Security Level,Inward issue link (Blocks),Inward issue link (Blocks),Inward issue link (Blocks),Inward issue link (Blocks),Outward issue link (Blocks),Inward issue link (Relates),Inward issue link (Relates),Inward issue link (Relates),Inward issue link (Relates),Inward issue link (Relates),Inward issue link (Relates),Inward issue link (Relates),Inward issue link (Relates),Inward issue link (Relates),Inward issue link (Relates),Inward issue link (Relates),Inward issue link (Relates),Inward issue link (Relates),Inward issue link (Relates),Inward issue link (Relates),Inward issue link (Relates),Inward issue link (Relates),Inward issue link (Relates),Inward issue link (Relates),Inward issue link (Relates),Inward issue link (Relates),Inward issue link (Relates),Inward issue link (Relates),Inward issue link (Relates),Inward issue link (Relates),Inward issue link (Relates),Inward issue link (Relates),Inward issue link (Relates),Inward issue link (Relates),Inward issue link (Relates),Inward issue link (Relates),Inward issue link (Relates),Inward issue link (Relates),Inward issue link (Relates),Inward issue link (Relates),Inward issue link (Relates),Inward issue link (Relates),Inward issue link (Relates),Inward issue link (Relates),Inward issue link (Relates),Inward issue link (Relates),Inward issue link (Relates),Inward issue link (Relates),Inward issue link (Relates),Inward issue link (Relates),Inward issue link (Relates),Inward issue link (Relates),Inward issue link (Relates),Inward issue link (Relates),Inward issue link (Relates),Inward issue link (Relates),Inward issue link (Relates),Inward issue link (Relates),Inward issue link (Relates),Inward issue link (Relates),Inward issue link (Relates),Inward issue link (Relates),Inward issue link (Relates),Inward issue link (Relates),Inward issue link (Relates),Inward issue link (Relates),Inward issue link (Relates),Inward issue link (Relates),Inward issue link (Relates),Inward issue link (Relates),Custom field (Acceptance Criteria),Custom field (Actual end),Custom field (Actual start),Custom field (Affected services),Custom field (Approvals),Custom field (Atlassian project),Custom field (Atlassian project status),Custom field (Change reason),Custom field (Change risk),Custom field (Change type),Custom field (Comments),Custom field (Delivery progress),Custom field (Delivery status),Custom field (Development),Custom field (Epic Color),Custom field (Epic Name),Custom field (Epic Status),Custom field (External issue ID),Custom field (Focus Areas),Custom field (Goals),Custom field (Idea archived),Custom field (Idea archived on),Custom field (Impact),Custom field (Insights),Custom field (Issue color),Custom field (Linked items),Custom field (Locked forms),Custom field (Meeting Notes),Custom field (Open forms),Custom field (Project overview key),Custom field (Project overview status),Custom field (Rank),Custom field (Request Type),Custom field (Request language),Custom field (Request participants),Satisfaction rating,Custom field (Satisfaction date),Custom field (Sentiment),Sprint,Custom field (Start date),Custom field (Story Points),Custom field (Story point estimate),Custom field (Submitted forms),Custom field (Target end),Custom field (Target start),Custom field (Team),Custom field (Time to done),Custom field (Time to first response),Custom field (Time to resolution),Custom field (Title),Custom field (Total forms),Custom field (Vulnerability),Custom field (Work category),Custom field ([CHART] Date of First Response),Custom field ([CHART] Time in Status),Comment,Comment,Comment,Comment,Comment,Comment,Comment,Comment,Comment,Comment,Comment,Comment,Comment,Comment,Comment,Comment,Comment,Comment,Comment,Comment,Comment,Comment,Comment,Comment,Comment,Comment,Comment,Comment,Comment,Comment,Comment,Comment,Comment,Comment,Comment,Comment,Comment,Comment,Comment,Comment,Comment,Comment,Comment,Comment,Comment,Comment,Comment,Comment,Comment,Comment,Comment,Comment,Comment,Comment,Comment,Comment,Comment,Comment,Comment,Comment,Comment,Comment,Comment,Comment,Comment,Comment,Comment,Comment,Comment,Comment,Comment,Comment,Comment,Comment,Comment,Comment,Comment,Comment,Comment,Comment,Comment,Comment,Comment,Comment,Comment,Comment,Comment,Comment,Comment,Comment,Parent,Parent key,Parent summary,Status Category,Status Category Changed
+Perform QA functional testing,EK-132,12324,Sub-task,In Progress,EK,EKart,software,Arpit,712020:eb7cff89-bb1f-4672-b13c-722fc8294d67,,,Medium,,Divya,712020:7e2e56e6-e055-4e98-9cce-8430dc3baf5d,Arpit,712020:eb7cff89-bb1f-4672-b13c-722fc8294d67,Arpit,712020:eb7cff89-bb1f-4672-b13c-722fc8294d67,25/Nov/25 6:19 AM,20/Feb/26 1:18 PM,20/Feb/26 6:38 PM,,,0,Perform QA functional testing for story: Strengthen password policy & validation,,Arpit,Sarah Conner,,,712020:eb7cff89-bb1f-4672-b13c-722fc8294d67,712020:01d30681-24ab-40aa-89dd-6673c211e706,,,,,,,,,,,,,,,,EK-1090,EK-1091,EK-1092,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@4701c74a,,,,,,,,,,,,,ONLINE-0026,,,,,,,,,,Starting work on QA functional testing.,,,,0|i00e6v:,,,,,,,EK Sprint 1,,,,,,,,,,,,,,,2026-02-09 23:41:47.909,,09/Feb/26 3:41 PM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Needs requirements from Varun.,13/Feb/26 1:58 PM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Divya completed the QA functional testing for EK-132 and mentioned it can be reassigned to Ankit for further action.,20/Feb/26 12:45 PM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Divya Bhanusali is planning to begin work on EK-132 today. No blockers were reported.,20/Feb/26 1:15 PM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Divya confirmed that the UI design blocker from Prem has been resolved.,20/Feb/26 1:18 PM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Divya Bhanusali is starting EK-132 today with no blockers reported.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12205,EK-13,Strengthen password policy & validation,In Progress,20/Feb/26 1:18 PM
+Improve error handling and logging,EK-131,12323,Sub-task,Done,EK,EKart,software,Arpit,712020:eb7cff89-bb1f-4672-b13c-722fc8294d67,,,High,Done,Ankit Mehta,712020:dd1c8eba-d744-4c89-83cd-b243679ef964,Arpit,712020:eb7cff89-bb1f-4672-b13c-722fc8294d67,Arpit,712020:eb7cff89-bb1f-4672-b13c-722fc8294d67,25/Nov/25 6:19 AM,20/Feb/26 1:18 PM,20/Feb/26 6:38 PM,20/Feb/26 1:18 PM,,0,Updated the error handling mechanism and improved logging capabilities to enhance traceability. This upgrade is necessary to facilitate smoother QA processes as it is currently blocking QA activities.,,Arpit,Hrishikesh Patidar,Sarah Conner,,712020:eb7cff89-bb1f-4672-b13c-722fc8294d67,712020:1c274a7e-e4f2-4e1a-95ca-d503d357f0cb,712020:01d30681-24ab-40aa-89dd-6673c211e706,,,,,,,,,,,,,,,EK-1090,EK-1091,EK-1092,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@226d8e84,,,,,,,,,,,,,ONLINE-0025,,,,,,,,,,Completed and ready for review.,,,,0|i00e6n:,,,,,,,EK Sprint 1,,,,,,,,,,,,,,,2025-12-20 17:57:35.705,10090_*:*_10_*:*_1018433563_*|*_3_*:*_9_*:*_4266047387_*|*_10097_*:*_2_*:*_2255434878,20/Dec/25 9:57 AM;712020:1c274a7e-e4f2-4e1a-95ca-d503d357f0cb;Standup update: no blockers today,20/Dec/25 11:06 AM;712020:1c274a7e-e4f2-4e1a-95ca-d503d357f0cb;Final test from Scrum Master bot,"22/Dec/25 9:26 AM;712020:1c274a7e-e4f2-4e1a-95ca-d503d357f0cb;I'vw worked on Ek-131, it's taking updates from user and updating in jira board",23/Dec/25 4:11 AM;712020:1c274a7e-e4f2-4e1a-95ca-d503d357f0cb;I'll finish this by EOD,23/Dec/25 4:29 AM;712020:1c274a7e-e4f2-4e1a-95ca-d503d357f0cb;I'll finish this by EOD,23/Dec/25 5:27 AM;712020:1c274a7e-e4f2-4e1a-95ca-d503d357f0cb;I'll finish this by EOD,"23/Dec/25 5:53 AM;712020:1c274a7e-e4f2-4e1a-95ca-d503d357f0cb;Daily standup update: Working on EK-131, no blockers.",23/Dec/25 6:05 AM;712020:1c274a7e-e4f2-4e1a-95ca-d503d357f0cb;I've started the server migration.,23/Dec/25 6:58 AM;712020:1c274a7e-e4f2-4e1a-95ca-d503d357f0cb;I've started the server migration.,23/Dec/25 6:59 AM;712020:1c274a7e-e4f2-4e1a-95ca-d503d357f0cb;I've started the server migration.,23/Dec/25 7:15 AM;712020:1c274a7e-e4f2-4e1a-95ca-d503d357f0cb;test comment feature,13/Feb/26 1:16 PM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Divya mentioned EK-131 is done and can be assigned to Arpit. No blockers reported.,20/Feb/26 12:30 PM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Divya Bhanusali completed EK-131 yesterday and it will be reassigned to Ankit Mehta.,"20/Feb/26 12:44 PM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Divya Bhanusali worked on EK-131, focusing on improving error handling and logging. The ticket will be reassigned to Ankit Mehta. No blockers were reported.",20/Feb/26 1:18 PM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Divya Bhanusali completed EK-131 and has assigned it to Ankit for review. No blockers reported.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12205,EK-13,Strengthen password policy & validation,Done,20/Feb/26 1:18 PM
+Write integration tests,EK-115,12307,Sub-task,In Progress,EK,EKart,software,Arpit,712020:eb7cff89-bb1f-4672-b13c-722fc8294d67,,,Medium,,Prem Jain,712020:24717c90-9e0c-4fbd-b5c1-f7cacf9c5e19,Arpit,712020:eb7cff89-bb1f-4672-b13c-722fc8294d67,Arpit,712020:eb7cff89-bb1f-4672-b13c-722fc8294d67,25/Nov/25 6:19 AM,20/Feb/26 1:18 PM,20/Feb/26 6:38 PM,,,0,Write integration tests for story: Implement passwordless login via OTP,,Arpit,Sarah Conner,,,712020:eb7cff89-bb1f-4672-b13c-722fc8294d67,712020:01d30681-24ab-40aa-89dd-6673c211e706,,,,,,,,,,,,,,,,EK-1090,EK-1091,EK-1092,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@1ebe7227,,,,,,,,,,,,,ONLINE-0007,,,,,,,,,,Resuming work after a day off.,,,,0|i00e33:,,,,,,,EK Sprint 1,,,,,,,,,,,,,,,2026-02-20 20:30:53.199,,20/Feb/26 12:30 PM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Prem Jain was off yesterday and plans to work on EK-115 today. No blockers reported.,20/Feb/26 12:44 PM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Prem Jain is planning to start work on EK-115 today. No blockers were reported.,20/Feb/26 1:18 PM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Prem Jain plans to work on EK-115 today and has no blockers.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12203,EK-11,Implement passwordless login via OTP,In Progress,18/Feb/26 2:18 PM
+Implement frontend UI components,EK-120,12312,Sub-task,In Progress,EK,EKart,software,Arpit,712020:eb7cff89-bb1f-4672-b13c-722fc8294d67,,,Medium,,Ankit Mehta,712020:dd1c8eba-d744-4c89-83cd-b243679ef964,Arpit,712020:eb7cff89-bb1f-4672-b13c-722fc8294d67,Arpit,712020:eb7cff89-bb1f-4672-b13c-722fc8294d67,25/Nov/25 6:19 AM,20/Feb/26 1:18 PM,20/Feb/26 6:38 PM,,,0,Implement frontend UI components for story: Add social login with Google & Apple,,Arpit,Hrishikesh Patidar,Sarah Conner,,712020:eb7cff89-bb1f-4672-b13c-722fc8294d67,712020:1c274a7e-e4f2-4e1a-95ca-d503d357f0cb,712020:01d30681-24ab-40aa-89dd-6673c211e706,,,,,,,,,,,,,,,EK-1084,EK-1085,EK-1087,EK-1088,EK-1089,EK-1090,EK-1091,EK-1092,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@1f4b953,,,,,,,,,,,,,ONLINE-0013,,,,,,,,,,Continuing work on frontend UI components.,,,,0|i00e47:,,,,,,,EK Sprint 1,,,,,,,,,,,,,,,2025-12-17 20:01:31.372,,"16/Dec/25 10:04 AM;712020:eb7cff89-bb1f-4672-b13c-722fc8294d67;[Standup Summary - 2025-12-16 18:04]
+
+Ankit started working on this.","17/Dec/25 12:01 PM;712020:1c274a7e-e4f2-4e1a-95ca-d503d357f0cb;[Standup Summary - 2025-12-17 20:01]
+
+Standup update from Ankit Mehta: <at>Bytevolt-pm-meeting</at> I am working on EK-120. Nothing else from my end.","17/Dec/25 2:19 PM;712020:1c274a7e-e4f2-4e1a-95ca-d503d357f0cb;[Standup Summary - 2025-12-18 03:49]
+
+The work on this ticket has been completed by Hrishikesh Patidar. Hrishikesh is now ready to move on to the next ticket.","20/Dec/25 8:38 AM;712020:1c274a7e-e4f2-4e1a-95ca-d503d357f0cb;Standup update: Working on EK-120, no blockers.","22/Dec/25 6:24 AM;712020:1c274a7e-e4f2-4e1a-95ca-d503d357f0cb;Sprint scheduled with team members: Ankit, Arpit, and Prem from 2025-12-15 to 2025-12-30.","23/Dec/25 5:52 AM;712020:1c274a7e-e4f2-4e1a-95ca-d503d357f0cb;Daily standup update: Working on EK-120, no blockers.",21/Jan/26 10:23 AM;712020:1c274a7e-e4f2-4e1a-95ca-d503d357f0cb;No blockers reported.,23/Jan/26 1:35 PM;712020:1c274a7e-e4f2-4e1a-95ca-d503d357f0cb;Ankit is waiting for test environment details to continue.,23/Jan/26 1:44 PM;712020:1c274a7e-e4f2-4e1a-95ca-d503d357f0cb;Waiting for test environment details.,24/Jan/26 11:13 AM;712020:1c274a7e-e4f2-4e1a-95ca-d503d357f0cb;Blocked due to missing requirements; awaiting input from Arpit.,24/Jan/26 12:20 PM;712020:1c274a7e-e4f2-4e1a-95ca-d503d357f0cb;Waiting on Hrishikesh.,25/Jan/26 10:29 AM;712020:1c274a7e-e4f2-4e1a-95ca-d503d357f0cb;Blocked due to missing database credential details.,26/Jan/26 1:36 AM;712020:1c274a7e-e4f2-4e1a-95ca-d503d357f0cb;Blocked due to pending API details from Hrishikesh.,26/Jan/26 8:54 AM;712020:1c274a7e-e4f2-4e1a-95ca-d503d357f0cb;Blocker resolved as Ankit confirmed he has the DB details and can proceed.,26/Jan/26 9:56 AM;712020:1c274a7e-e4f2-4e1a-95ca-d503d357f0cb;Ankit confirmed he has the database credentials and can proceed.,26/Jan/26 10:08 AM;712020:1c274a7e-e4f2-4e1a-95ca-d503d357f0cb;Blocker resolved as Ankit confirmed the database details from Hrishikesh worked and he can proceed.,26/Jan/26 10:37 AM;712020:1c274a7e-e4f2-4e1a-95ca-d503d357f0cb;Database credentials needed to proceed.,"26/Jan/26 10:48 AM;712020:1c274a7e-e4f2-4e1a-95ca-d503d357f0cb;Ankit confirmed that the credentials provided by Hrishikesh are all good, resolving the dependency blocker.",26/Jan/26 11:00 AM;712020:1c274a7e-e4f2-4e1a-95ca-d503d357f0cb;Ankit confirmed that the provided database credentials from Hrishikesh resolved the blocker.,"26/Jan/26 11:00 AM;712020:1c274a7e-e4f2-4e1a-95ca-d503d357f0cb;Database details issue resolved, Ankit can proceed.","09/Feb/26 3:35 PM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Meeting Summary - 2026-02-09
+
+# Meeting Summary
+
+## Topics Discussed
+- I don't have any updates. No ticket assigned....
+- I worked on EK 1112 yesterday....
+- It's ek 112....
+- It's ek 111....
+- Today I'll be continue working on EK 111 and I don...
+
+## Decisions Made
+- To be extracted from conversation
+
+## Action Items
+- To be extracted from conversation
+
+## Jira Tickets Mentioned
+- EK-120
+
+## Participants
+- Arpit Desai
+- Divya Bhanushali
+
+---
+Generated at: 2026-02-09 23:35:40 UTC
+
+---
+Relevant context for this ticket:
+
+Relevant chat messages:
+[23:33:40] Ankit Mehta: <span itemtype=""http://schema.skype.com/Mention"" itemscope="""" itemid=""0"">Sarah</span>&nbsp;worked on EK-120 yesterday. I will continue on same today as well. No blockers.
+","10/Feb/26 9:33 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Meeting Summary - 2026-02-10
+
+# Meeting Summary
+
+## Topics Discussed
+- Ankit is not on the call can be skipping....
+- I need ui specifications from anki....
+- Yesterday, wagdon ek 127. Today we'll continue on ...
+- Yes....
+- Why you are not spoken that. Hold on and goodbye. ...
+
+## Decisions Made
+- To be extracted from conversation
+
+## Action Items
+- To be extracted from conversation
+
+## Jira Tickets Mentioned
+- EK-111
+- EK-120
+
+## Participants
+- Arpit Desai
+- Hrishikesh Patidar
+
+---
+Generated at: 2026-02-10 17:33:30 UTC
+
+---
+Relevant context for this ticket:
+
+Relevant chat messages:
+[17:32:25] Ankit Mehta: <span itemtype=""http://schema.skype.com/Mention"" itemscope="""" itemid=""0"">Sarah</span>&nbsp;Yesterday worked on Ek-120, Today will be on same ticket and No blockers for me
+",10/Feb/26 12:37 PM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Continuing work on EK-120.,10/Feb/26 12:44 PM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Yesterday I worked on EK-120. Today I will continue on the same ticket.,10/Feb/26 1:15 PM;712020:01d30681-24ab-40aa-89dd-6673c211e706;No blockers reported.,10/Feb/26 2:48 PM;712020:01d30681-24ab-40aa-89dd-6673c211e706;None.,"10/Feb/26 3:06 PM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Yesterday I worked on ticket EK-120, and today I'll be continuing on the same ticket.",10/Feb/26 3:16 PM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Yesterday I worked on ticket EK-120. I'll continue on the same today.,11/Feb/26 3:03 PM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Yesterday I worked on ticket EK-120. I will continue on the same ticket today as well.,11/Feb/26 3:14 PM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Worked on EK-120; will continue.,11/Feb/26 3:19 PM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Yesterday I worked on ticket EK-120. I will be continuing on the same ticket today as well.,"12/Feb/26 10:28 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Worked on EK-120 yesterday, continuing today.",12/Feb/26 11:06 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Need API details from Arpit.,12/Feb/26 11:10 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Ankit confirmed he has received all API details from Arpit and can proceed.,12/Feb/26 4:10 PM;712020:01d30681-24ab-40aa-89dd-6673c211e706;No blockers reported.,12/Feb/26 11:56 PM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Blocked: Needs API details from Arpit.,13/Feb/26 12:08 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;No blockers reported.,13/Feb/26 1:14 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Ankit mentioned a blocker and needs product details.,13/Feb/26 1:26 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;No blockers reported.,13/Feb/26 3:24 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;No blockers reported.,13/Feb/26 5:50 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Continuing work on EK-120 today.,"13/Feb/26 7:19 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Blocked due to missing login page functionality details, requires input from Arpit.",13/Feb/26 8:03 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Ankit Mehta confirmed that the blocker is resolved.,13/Feb/26 9:11 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Continuing work on EK-120.,13/Feb/26 9:16 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Continuing work on EK-120.,"13/Feb/26 9:47 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Working on frontend UI components, but blocked due to pending UI index design.",13/Feb/26 9:52 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Ankit confirmed that the blocker related to waiting on UI index design from Arpit is resolved.,13/Feb/26 9:54 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Ankit worked on EK-120 yesterday and is continuing today. The work is blocked due to the need for design details from the Product team.,13/Feb/26 10:03 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Ankit reported a blocker due to missing requirements from Arpit on the login page design for EK-120.,13/Feb/26 10:15 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Ankit Mehta confirmed that the blocker related to pending requirements from Arpit is resolved.,"13/Feb/26 12:50 PM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Ankit is engaged in EK-120 and needs specific design details from the Product team. The blocker is related to the login page design, and Ankit is looking to get the necessary information from Arpit to proceed.",13/Feb/26 12:55 PM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Ankit is waiting for design details from Divya.,"13/Feb/26 1:16 PM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Yesterday, Ankit worked on EK-120 and plans to continue today. No blockers reported.",13/Feb/26 1:32 PM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Yesterday I was working on ticket EK-120 and I'll continue on the same ticket. No blockers.,"13/Feb/26 1:58 PM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Ankit Mehta continued working on EK-120, focusing on the implementation of frontend UI components. He will carry on with the same task today.",16/Feb/26 5:47 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Ankit mentioned continuing work on EK-120 today. No blockers reported.,16/Feb/26 7:10 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Ankit continues to work on UI components for EK-120. No blockers reported.,16/Feb/26 7:37 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Continuing today.,"16/Feb/26 9:21 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Ankit Mehta continues to work on EK-120, focusing on the frontend UI components for social login with Google & Apple.",16/Feb/26 9:26 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Ankit is waiting for the design details from the product team to continue work on EK-120.,"16/Feb/26 9:40 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Ankit is blocked on EK-120, requiring design details from Arpit to proceed.",16/Feb/26 9:41 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Ankit confirmed the blocker is resolved.,"16/Feb/26 9:58 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Yesterday I was working on ticket EK-120. I will continue on the same ticket today, but I'm blocked. I need the design details from the product team.","16/Feb/26 10:14 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Ankit Mehta is working on EK-120, implementing frontend UI components.","16/Feb/26 10:29 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Ankit worked on EK-120, focusing on the implementation of frontend UI components. No blockers were reported.","16/Feb/26 10:42 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Ankit Mehta is working on the UI components for EK-120 and plans to continue this work. No blockers have been reported, and the task is progressing as expected.","16/Feb/26 10:47 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Ankit continues to work on EK-120, focusing on implementing frontend UI components for the social login feature. No blockers reported.","16/Feb/26 10:57 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Ankit is continuing the work on EK-120, focusing on frontend UI components. No blockers reported.",16/Feb/26 11:15 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Ankit Mehta continued working on the frontend UI components for the EK-EKart project. No blockers were reported.,16/Feb/26 11:50 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Ankit is working on implementing the frontend UI components for EK-120. There are no blockers reported on this ticket.,"16/Feb/26 12:07 PM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Ankit Mehta worked on EK-120 yesterday and plans to continue today, focusing on implementing the frontend UI components.",17/Feb/26 10:28 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Ankit continues work on EK-120 with no blockers reported.,"18/Feb/26 1:08 PM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Ankit Mehta is continuing work on EK-120 from yesterday, with no blockers.",18/Feb/26 1:11 PM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Ankit Mehta is currently working on EK-120 but faces a blocker due to pending design details from the product team. This is hindering progress on the frontend UI components. Ankit will continue with the task once the required details are provided.,18/Feb/26 1:16 PM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Ankit Mehta is awaiting login page details from Arpit to proceed with EK-120.,18/Feb/26 1:23 PM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Ankit Mehta is currently working on ticket EK-120 but has a blocker due to missing login page details from Arpit.,18/Feb/26 1:26 PM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Ankit confirmed that the blocker related to login page details is resolved.,18/Feb/26 1:30 PM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Ankit Mehta continued work on EK-120 yesterday and plans to continue today. No blockers reported.,18/Feb/26 1:41 PM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Ankit Mehta confirmed that the blocker is resolved.,18/Feb/26 2:17 PM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Ankit continues work on developing the frontend UI components and plans to complete them today.,20/Feb/26 11:11 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Ankit Mehta confirmed that the blocker regarding login page functionality details is resolved.,"20/Feb/26 11:15 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Ankit mentioned that he is currently working on EK-120. However, he is blocked as he is waiting for the login page functionality details from Arpit in the product team. Sarah will connect with Arpit to move this forward.",20/Feb/26 11:18 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Ankit confirmed that the blocker regarding the login page functionality details is resolved.,"20/Feb/26 11:32 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Ankit Mehta continues to work on EK-120, focusing on the frontend UI components. No blockers have been reported, and the work is proceeding as planned.",20/Feb/26 11:37 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Ankit Mehta continued work on EK-120 and is waiting on detailed login functionality from Arpit to proceed further.,20/Feb/26 11:39 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Ankit confirmed that the blocker related to login functionality details is resolved.,20/Feb/26 11:42 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Ankit Mehta continues to work on implementing frontend UI components as part of the add social login feature. The task remains in progress with no blockers reported.,20/Feb/26 12:30 PM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Ankit Mehta worked on EK-120 yesterday and will continue today. No blockers reported.,"20/Feb/26 12:44 PM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Ankit Mehta continued work on EK-120, focusing on frontend UI components. He reported no blockers.",20/Feb/26 1:18 PM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Ankit Mehta is continuing work on EK-120 with no blockers reported.,12204,EK-12,Add social login with Google & Apple,In Progress,21/Jan/26 10:15 AM
+Develop backend API for strengthen password policy & validation,EK-127,12319,Sub-task,In Progress,EK,EKart,software,Arpit,712020:eb7cff89-bb1f-4672-b13c-722fc8294d67,,,Medium,,Hrishikesh Patidar,712020:1c274a7e-e4f2-4e1a-95ca-d503d357f0cb,Arpit,712020:eb7cff89-bb1f-4672-b13c-722fc8294d67,Arpit,712020:eb7cff89-bb1f-4672-b13c-722fc8294d67,25/Nov/25 6:19 AM,20/Feb/26 11:43 AM,20/Feb/26 11:38 AM,,,0,Develop backend API for feature for story: Strengthen password policy & validation,,Arpit,Hrishikesh Patidar,Hrishikesh Patidar,Sarah Conner,712020:eb7cff89-bb1f-4672-b13c-722fc8294d67,712020:1c274a7e-e4f2-4e1a-95ca-d503d357f0cb,712020:2890c809-5956-48b0-b46c-905bc26e8ecc,712020:01d30681-24ab-40aa-89dd-6673c211e706,,,,,,,,,,,,,,EK-1082,EK-1083,EK-1084,EK-1085,EK-1086,EK-1088,EK-1089,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@2be9e646,,,,,,,,,,,,,ONLINE-0021,,,,,,,,,,The backend API for strengthening password policy and validation has been completed.,,,,0|i00e5r:,,,,,,,EK Sprint 1,,,,,,,,,,,,,,,2025-12-11 15:54:30.714,,11/Dec/25 7:54 AM;712020:2890c809-5956-48b0-b46c-905bc26e8ecc;API creation is done. Once testing is done properly on local I will commit the code.,"16/Dec/25 6:14 AM;712020:eb7cff89-bb1f-4672-b13c-722fc8294d67;[Standup Summary - 2025-12-16 19:44]
+
+Work completed by Hrishikesh.","16/Dec/25 6:27 AM;712020:eb7cff89-bb1f-4672-b13c-722fc8294d67;[Standup Summary - 2025-12-16 19:57]
+
+Work completed by Hrishikesh.","16/Dec/25 6:57 AM;712020:eb7cff89-bb1f-4672-b13c-722fc8294d67;[Standup Summary - 2025-12-16 20:27]
+
+Work completed by Hrishikesh.","16/Dec/25 7:39 AM;712020:eb7cff89-bb1f-4672-b13c-722fc8294d67;[Standup Summary - 2025-12-16 21:09]
+
+Work completed by Hrishikesh.","16/Dec/25 9:44 AM;712020:eb7cff89-bb1f-4672-b13c-722fc8294d67;[Standup Summary - 2025-12-16 23:14]
+
+Work completed by Hrishikesh.",25/Jan/26 10:37 AM;712020:1c274a7e-e4f2-4e1a-95ca-d503d357f0cb;Completed development.,26/Jan/26 8:50 AM;712020:1c274a7e-e4f2-4e1a-95ca-d503d357f0cb;Task completed.,26/Jan/26 10:24 AM;712020:1c274a7e-e4f2-4e1a-95ca-d503d357f0cb;Ready to be assigned to Arpit.,26/Jan/26 11:55 AM;712020:1c274a7e-e4f2-4e1a-95ca-d503d357f0cb;Completed by Hrishikesh with collaboration from Divya.,26/Jan/26 11:59 AM;712020:1c274a7e-e4f2-4e1a-95ca-d503d357f0cb;Hrishikesh confirmed that the database schema clarification blocker is resolved.,26/Jan/26 12:06 PM;712020:1c274a7e-e4f2-4e1a-95ca-d503d357f0cb;Completed yesterday.,02/Feb/26 9:27 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;N/A,02/Feb/26 11:07 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Reassignment to Arpit is noted.,02/Feb/26 11:45 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Ready for review by Arpit.,05/Feb/26 11:29 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Reassignment to Arpit noted.,05/Feb/26 2:09 PM;712020:01d30681-24ab-40aa-89dd-6673c211e706;None.,06/Feb/26 10:32 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Hrishikesh to receive requirements from Arpit.,06/Feb/26 10:41 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Hrishikesh confirmed that the blocker related to pending requirements from Arpit is resolved.,09/Feb/26 10:07 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Completed by Hrishikesh.,09/Feb/26 10:31 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Ready for review by Arpit.,09/Feb/26 1:11 PM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Reassignment to Arpit.,09/Feb/26 1:46 PM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Reassigned to Arpit.,09/Feb/26 2:06 PM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Reassignment noted.,"10/Feb/26 8:31 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Meeting Summary - 2026-02-10
+
+# Meeting Summary
+
+## Topics Discussed
+- I already shared in the chat and already mentioned...
+
+## Decisions Made
+- To be extracted from conversation
+
+## Action Items
+- To be extracted from conversation
+
+## Jira Tickets Mentioned
+- EK-127
+- EK-128
+
+## Participants
+- Hrishikesh Patidar
+
+---
+Generated at: 2026-02-10 16:31:40 UTC
+
+---
+Relevant context for this ticket:
+
+Relevant chat messages:
+[16:30:59] Hrishikesh Patidar: <span itemtype=""http://schema.skype.com/Mention"" itemscope="""" itemid=""0"">Sarah</span>&nbsp;Yesterday I completed the work on Ek-127. Now Today&nbsp; I will work on Ek-128.<br>
+&nbsp;
+",10/Feb/26 9:36 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;No blockers reported.,"10/Feb/26 9:37 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Meeting Summary - 2026-02-10
+
+# Meeting Summary
+
+## Topics Discussed
+- Hey, Sarah. I don't have any tickets....
+- So, Sarah, I'm working on ticket EK120. We'll cont...
+- I don't have any tickets....
+- I don't have assigned tickets...
+- for today....
+
+## Decisions Made
+- To be extracted from conversation
+
+## Action Items
+- To be extracted from conversation
+
+## Jira Tickets Mentioned
+- EK-127
+- EK-128
+
+## Participants
+- Ankit Mehta
+- Hrishikesh Patidar
+- Arpit Desai
+
+---
+Generated at: 2026-02-10 17:37:15 UTC
+
+---
+Relevant context for this ticket:
+
+Relevant chat messages:
+[17:35:21] Hrishikesh Patidar: <span itemtype=""http://schema.skype.com/Mention"" itemscope="""" itemid=""0"">Sarah</span>&nbsp;Yesterday I completed the work on Ek-127. Now Today&nbsp; I will work on Ek-128.<br>
+&nbsp;
+",10/Feb/26 9:52 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Completion noted.,"10/Feb/26 9:52 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Meeting Summary - 2026-02-10
+
+# Meeting Summary
+
+## Topics Discussed
+- Hi, sarah. Yes. Today I worked on ticket ek 120. T...
+- Yes, we can close....
+
+## Decisions Made
+- To be extracted from conversation
+
+## Action Items
+- To be extracted from conversation
+
+## Jira Tickets Mentioned
+- EK-127
+- EK-128
+- EK-111
+
+## Participants
+- Ankit Mehta
+- Hrishikesh Patidar
+
+---
+Generated at: 2026-02-10 17:52:51 UTC
+
+---
+Relevant context for this ticket:
+
+Relevant chat messages:
+[17:51:34] Hrishikesh Patidar: <span itemtype=""http://schema.skype.com/Mention"" itemscope="""" itemid=""0"">Sarah</span>&nbsp;Yesterday I completed the work on Ek-127. Now Today&nbsp; I will work on Ek-128. NO blocker<br>
+&nbsp;
+",10/Feb/26 10:06 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;No blockers reported.,"10/Feb/26 10:06 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Meeting Summary - 2026-02-10
+
+# Meeting Summary
+
+## Topics Discussed
+- Hi, Sarah. Yesterday. I've got to get EK 120. I'll...
+- blockers....
+- Today I'm doing the same. No blockers....
+- No blockers, Sarah. Thank you....
+- We can close. Thank you....
+
+## Decisions Made
+- To be extracted from conversation
+
+## Action Items
+- To be extracted from conversation
+
+## Jira Tickets Mentioned
+- EK-127
+- EK-128
+- EK-111
+
+## Participants
+- Ankit Mehta
+- Arpit Desai
+- Hrishikesh Patidar
+
+---
+Generated at: 2026-02-10 18:06:45 UTC
+
+---
+Relevant context for this ticket:
+
+Relevant chat messages:
+[18:04:49] Hrishikesh Patidar: <span itemtype=""http://schema.skype.com/Mention"" itemscope="""" itemid=""0"">Sarah</span>&nbsp;Yesterday I completed the work on Ek-127. Now Today&nbsp; I will work on Ek-128.<br>
+&nbsp;
+",10/Feb/26 10:14 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Completed yesterday.,10/Feb/26 11:05 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Yesterday I completed the work on EK-127.,10/Feb/26 11:46 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Yesterday I completed the work on EK-127. Today I will work on EK-128.,10/Feb/26 12:26 PM;712020:01d30681-24ab-40aa-89dd-6673c211e706;कल मैंने EK-127 पे काम किया था.,10/Feb/26 12:31 PM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Completed as planned.,"10/Feb/26 12:36 PM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Completed by Hrishikesh, reassigned to Arpit.",10/Feb/26 12:44 PM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Yesterday I worked on EK-127. It is completed.,10/Feb/26 1:15 PM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Continuing with EK-128 today.,10/Feb/26 2:48 PM;712020:01d30681-24ab-40aa-89dd-6673c211e706;None.,10/Feb/26 3:06 PM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Yesterday I completed the work on EK-127.,10/Feb/26 3:16 PM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Yesterday I completed the work on EK-127.,12/Feb/26 4:10 PM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Reassignment to Arpit is noted.,13/Feb/26 3:24 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;No blockers reported.,16/Feb/26 5:47 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;No further action required on EK-127 as it is completed.,16/Feb/26 7:10 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;EK-127 was completed yesterday and now reassigned to Arpit.,16/Feb/26 7:37 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Completed and to be reassigned to Arpit.,16/Feb/26 9:21 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Hrishikesh Patidar has completed EK-127 and suggested reassigning it to Arpit Desai for further actions.,"16/Feb/26 9:27 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Hrishikesh finished EK-127, relating to the development of the backend API for strengthening password policies. The ticket will be reassigned to Arpit.",16/Feb/26 9:40 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Hrishikesh completed EK-127 and it has been reassigned to Arpit.,"16/Feb/26 9:58 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Yesterday I completed the work on EK-127, you can assign this to Ankit.",16/Feb/26 10:14 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Hrishikesh Patidar completed the backend API for strengthening password policy and validation. Arpit Desai will handle the next steps.,16/Feb/26 10:29 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Hrishikesh completed the work on EK-127 and suggested reassigning it to Arpit for further action. No blockers were reported.,"16/Feb/26 10:42 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Hrishikesh Patidar has completed the backend API development for EK-127, and the ticket is now marked as completed. Reassignment to Arpit Desai is noted.",16/Feb/26 10:47 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Hrishikesh is engaged in developing the backend API for strengthening password policy and validation. No blockers reported.,16/Feb/26 10:57 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Hrishikesh completed the work on EK-127 and has requested a review by Arpit.,16/Feb/26 11:50 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Hrishikesh has successfully completed the backend API development for strengthening password policy and validation. He requested to reassign the ticket.,"16/Feb/26 12:07 PM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Hrishikesh Patidar worked on EK-127 yesterday and will continue today, focusing on backend API development.","17/Feb/26 9:43 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Hrishikesh completed the work on EK-127, and it will be reassigned to Arpit Desai for any further actions.",17/Feb/26 10:27 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Hrishikesh completed EK-127 and it will be handed over to Arpit for review.,17/Feb/26 10:27 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Divya is blocked on EK-127 and requires input from Ankit to proceed.,17/Feb/26 10:34 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Hrishikesh completed EK-127 on time without any blockers. The task was related to backend integration.,17/Feb/26 10:38 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Divya confirmed that the blocker is solved.,"18/Feb/26 1:08 PM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Hrishikesh Patidar completed work on EK-127, and it's now awaiting review by Arpit.","18/Feb/26 1:11 PM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Hrishikesh Patidar is progressing well with EK-127 and will be focusing on EK-128 today. There are no blockers reported, and the work is on track.",18/Feb/26 1:17 PM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Hrishikesh Patidar completed the work on EK-127; no blockers reported.,18/Feb/26 1:23 PM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Hrishikesh Patidar completed ticket EK-127 and it will be reassigned to Arpit for further actions.,18/Feb/26 1:30 PM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Hrishikesh Patidar completed EK-127 and requested to reassign it to Ankit Mehta.,20/Feb/26 7:47 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Hrishikesh completed the assigned tasks for EK-127. No blockers were present.,"20/Feb/26 7:49 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Hrishikesh completed the work on EK-127 yesterday, focusing on developing the backend API for strengthening password policy and validation.",20/Feb/26 11:15 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Hrishikesh indicated that he is continuing his work on EK-127 today and has no blockers.,20/Feb/26 11:27 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Hrishikesh Patidar completed the work on EK-127 and suggested assigning it to Arpit Desai for review. No blockers were reported.,"20/Feb/26 11:37 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Hrishikesh Patidar completed EK-127, and it has been reassigned to Arpit for review.",20/Feb/26 11:42 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Hrishikesh Patidar completed the work on the backend API for strengthening password policy and validation. The ticket will be reassigned to Arpit for further action.,,,,,,,,,,,,,,,,,12205,EK-13,Strengthen password policy & validation,In Progress,20/Feb/26 11:43 AM
+Implement frontend UI components,EK-128,12320,Sub-task,In Progress,EK,EKart,software,Arpit,712020:eb7cff89-bb1f-4672-b13c-722fc8294d67,,,Medium,,Hrishikesh Patidar,712020:1c274a7e-e4f2-4e1a-95ca-d503d357f0cb,Arpit,712020:eb7cff89-bb1f-4672-b13c-722fc8294d67,Arpit,712020:eb7cff89-bb1f-4672-b13c-722fc8294d67,25/Nov/25 6:19 AM,20/Feb/26 11:43 AM,20/Feb/26 11:38 AM,,,0,,,Arpit,Hrishikesh Patidar,Sarah Conner,,712020:eb7cff89-bb1f-4672-b13c-722fc8294d67,712020:1c274a7e-e4f2-4e1a-95ca-d503d357f0cb,712020:01d30681-24ab-40aa-89dd-6673c211e706,,,,,,,,,,,,,,,EK-1082,EK-1083,EK-1085,EK-1086,EK-1087,EK-1088,EK-1089,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@2d740670,,,,,,,,,,,,,ONLINE-0022,,,,,,,,,,Hrishikesh will continue working on implementing frontend UI components.,,,,0|i00e5z:,,,,,,,EK Sprint 1,,,,,,,,,,,,,,,2026-01-23 20:33:53.048,,"16/Dec/25 6:14 AM;712020:eb7cff89-bb1f-4672-b13c-722fc8294d67;[Standup Summary - 2025-12-16 19:44]
+
+Hrishikesh will work on this ticket next.",23/Jan/26 12:33 PM;712020:1c274a7e-e4f2-4e1a-95ca-d503d357f0cb;Arpit to provide requirements.,"23/Jan/26 1:24 PM;712020:1c274a7e-e4f2-4e1a-95ca-d503d357f0cb;Blocked, waiting for requirements from Arpit.",25/Jan/26 10:37 AM;712020:1c274a7e-e4f2-4e1a-95ca-d503d357f0cb;Blocked due to missing requirements from Ankit.,26/Jan/26 8:50 AM;712020:1c274a7e-e4f2-4e1a-95ca-d503d357f0cb;Waiting for API requirements from Ankit.,"26/Jan/26 8:54 AM;712020:1c274a7e-e4f2-4e1a-95ca-d503d357f0cb;Hrishikesh confirmed he has started working after receiving the API details from Ankit, resolving the blocker.","26/Jan/26 9:51 AM;712020:1c274a7e-e4f2-4e1a-95ca-d503d357f0cb;Blocked, awaiting API requirements.",26/Jan/26 9:58 AM;712020:1c274a7e-e4f2-4e1a-95ca-d503d357f0cb;Hrishikesh confirmed he is unblocked after receiving API requirements from Ankit.,26/Jan/26 10:06 AM;712020:1c274a7e-e4f2-4e1a-95ca-d503d357f0cb;Blocked due to missing requirements.,26/Jan/26 10:08 AM;712020:1c274a7e-e4f2-4e1a-95ca-d503d357f0cb;Hrishikesh confirmed he has the requirements and can start work on the 2FA authentication.,26/Jan/26 10:37 AM;712020:1c274a7e-e4f2-4e1a-95ca-d503d357f0cb;Requirements needed to proceed.,26/Jan/26 11:00 AM;712020:1c274a7e-e4f2-4e1a-95ca-d503d357f0cb;Hrishikesh confirmed that the blocker is resolved.,26/Jan/26 12:06 PM;712020:1c274a7e-e4f2-4e1a-95ca-d503d357f0cb;Divya to assist Hrishikesh with the requirements.,02/Feb/26 9:03 AM;712020:1c274a7e-e4f2-4e1a-95ca-d503d357f0cb;Hrishikesh confirmed that the blocker related to requirements from Ankit is resolved.,02/Feb/26 9:30 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Hrishikesh confirmed that the blocker related to requirements from Ankit is resolved.,02/Feb/26 9:32 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Hrishikesh confirmed that the blocker is resolved and all is good now.,02/Feb/26 10:41 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Hrishikesh confirmed that the blocker is resolved after Arpit shared the requirements.,02/Feb/26 11:07 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Ankit to connect with Hrishikesh post-call to provide requirements.,02/Feb/26 11:12 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Hrishikesh confirmed the blocker is resolved after Ankit shared all details on Confluence.,02/Feb/26 11:22 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Hrishikesh confirmed that the blocker related to requirements from Arpit is resolved.,02/Feb/26 11:47 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Hrishikesh confirmed that the blocker related to pending requirements from Ankit is resolved.,04/Feb/26 2:58 PM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Ankit Mehta to provide requirements after the call.,05/Feb/26 11:29 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Waiting on Ankit's input.,06/Feb/26 10:14 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Blocked due to requirements needed from Ankit.,06/Feb/26 10:15 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Hrishikesh confirmed that the blocker related to pending requirements from Ankit is resolved.,09/Feb/26 1:46 PM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Blocked by pending requirements from Ankit.,"09/Feb/26 1:48 PM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Ankit confirmed that the requirements are all good, resolving the blocker for Hrishikesh.",09/Feb/26 3:41 PM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Needs requirements from Divya.,"10/Feb/26 8:31 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Meeting Summary - 2026-02-10
+
+# Meeting Summary
+
+## Topics Discussed
+- I already shared in the chat and already mentioned...
+
+## Decisions Made
+- To be extracted from conversation
+
+## Action Items
+- To be extracted from conversation
+
+## Jira Tickets Mentioned
+- EK-127
+- EK-128
+
+## Participants
+- Hrishikesh Patidar
+
+---
+Generated at: 2026-02-10 16:31:40 UTC
+
+---
+Relevant context for this ticket:
+
+Relevant chat messages:
+[16:30:59] Hrishikesh Patidar: <span itemtype=""http://schema.skype.com/Mention"" itemscope="""" itemid=""0"">Sarah</span>&nbsp;Yesterday I completed the work on Ek-127. Now Today&nbsp; I will work on Ek-128.<br>
+&nbsp;
+","10/Feb/26 9:37 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Meeting Summary - 2026-02-10
+
+# Meeting Summary
+
+## Topics Discussed
+- Hey, Sarah. I don't have any tickets....
+- So, Sarah, I'm working on ticket EK120. We'll cont...
+- I don't have any tickets....
+- I don't have assigned tickets...
+- for today....
+
+## Decisions Made
+- To be extracted from conversation
+
+## Action Items
+- To be extracted from conversation
+
+## Jira Tickets Mentioned
+- EK-127
+- EK-128
+
+## Participants
+- Ankit Mehta
+- Hrishikesh Patidar
+- Arpit Desai
+
+---
+Generated at: 2026-02-10 17:37:15 UTC
+
+---
+Relevant context for this ticket:
+
+Relevant chat messages:
+[17:35:21] Hrishikesh Patidar: <span itemtype=""http://schema.skype.com/Mention"" itemscope="""" itemid=""0"">Sarah</span>&nbsp;Yesterday I completed the work on Ek-127. Now Today&nbsp; I will work on Ek-128.<br>
+&nbsp;
+","10/Feb/26 9:52 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Meeting Summary - 2026-02-10
+
+# Meeting Summary
+
+## Topics Discussed
+- Hi, sarah. Yes. Today I worked on ticket ek 120. T...
+- Yes, we can close....
+
+## Decisions Made
+- To be extracted from conversation
+
+## Action Items
+- To be extracted from conversation
+
+## Jira Tickets Mentioned
+- EK-127
+- EK-128
+- EK-111
+
+## Participants
+- Ankit Mehta
+- Hrishikesh Patidar
+
+---
+Generated at: 2026-02-10 17:52:51 UTC
+
+---
+Relevant context for this ticket:
+
+Relevant chat messages:
+[17:51:34] Hrishikesh Patidar: <span itemtype=""http://schema.skype.com/Mention"" itemscope="""" itemid=""0"">Sarah</span>&nbsp;Yesterday I completed the work on Ek-127. Now Today&nbsp; I will work on Ek-128. NO blocker<br>
+&nbsp;
+","10/Feb/26 10:06 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Meeting Summary - 2026-02-10
+
+# Meeting Summary
+
+## Topics Discussed
+- Hi, Sarah. Yesterday. I've got to get EK 120. I'll...
+- blockers....
+- Today I'm doing the same. No blockers....
+- No blockers, Sarah. Thank you....
+- We can close. Thank you....
+
+## Decisions Made
+- To be extracted from conversation
+
+## Action Items
+- To be extracted from conversation
+
+## Jira Tickets Mentioned
+- EK-127
+- EK-128
+- EK-111
+
+## Participants
+- Ankit Mehta
+- Arpit Desai
+- Hrishikesh Patidar
+
+---
+Generated at: 2026-02-10 18:06:45 UTC
+
+---
+Relevant context for this ticket:
+
+Relevant chat messages:
+[18:04:49] Hrishikesh Patidar: <span itemtype=""http://schema.skype.com/Mention"" itemscope="""" itemid=""0"">Sarah</span>&nbsp;Yesterday I completed the work on Ek-127. Now Today&nbsp; I will work on Ek-128.<br>
+&nbsp;
+",10/Feb/26 12:37 PM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Continued work on the implementation.,10/Feb/26 12:44 PM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Today I will continue on EK-128.,10/Feb/26 1:15 PM;712020:01d30681-24ab-40aa-89dd-6673c211e706;No blockers reported.,10/Feb/26 2:48 PM;712020:01d30681-24ab-40aa-89dd-6673c211e706;None.,10/Feb/26 3:06 PM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Today I will work on EK-128.,10/Feb/26 3:16 PM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Today I will work on EK-128.,12/Feb/26 4:10 PM;712020:01d30681-24ab-40aa-89dd-6673c211e706;No blockers reported.,16/Feb/26 5:47 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Hrishikesh reported that he will continue working on EK-128 today with no blockers.,16/Feb/26 7:10 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Continuing work on frontend UI components for EK-128.,16/Feb/26 7:37 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Continuing today.,"16/Feb/26 9:21 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Hrishikesh Patidar is working on EK-128, focusing on the frontend UI components.",16/Feb/26 9:29 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Hrishikesh confirmed that the blocker related to requirements from Arpit for frontend UI components is resolved.,"16/Feb/26 9:40 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Hrishikesh is blocked on EK-128, needing recommendations from Ankit to proceed.",16/Feb/26 9:41 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Hrishikesh confirmed that the blocker is resolved.,"16/Feb/26 9:58 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Today I will work on EK-128, but blocked, because I need requirement on this from Arpit.",16/Feb/26 9:59 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Hrishikesh confirmed that the blocker is resolved.,16/Feb/26 10:14 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Hrishikesh Patidar is focused on implementing frontend UI components.,16/Feb/26 10:29 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Hrishikesh is continuing with the frontend UI components for EK-128 with no blockers reported.,16/Feb/26 10:42 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Hrishikesh Patidar is focused on the UI components for EK-128 and will continue work on this task. No blockers are currently affecting progress.,"16/Feb/26 10:47 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Hrishikesh is set to continue work on EK-128, focusing on implementing frontend UI components. No blockers reported.",16/Feb/26 11:00 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Hrishikesh confirmed the blocker is resolved after Ankit provided all the required details.,16/Feb/26 11:15 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Hrishikesh Patidar is focused on implementing the frontend UI components. No blockers were reported.,16/Feb/26 11:50 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Hrishikesh is continuing to implement the frontend UI components for EK-128. There are no blockers reported.,17/Feb/26 9:43 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;No blockers reported for EK-128. Hrishikesh is working on its completion today.,17/Feb/26 10:27 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Hrishikesh is blocked on EK-128 and requires input from Arpit to proceed.,17/Feb/26 10:28 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Hrishikesh confirmed that the blocker related to waiting on requirements from Arpit is resolved.,17/Feb/26 10:34 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Divya is working on EK-128 and requires input from the Product team. Collaboration with Hrishikesh and Ankit is planned.,18/Feb/26 1:02 PM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Hrishikesh confirmed that the blocker is resolved.,"18/Feb/26 1:08 PM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Hrishikesh Patidar is continuing work on EK-128, with no blockers reported.",18/Feb/26 1:17 PM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Hrishikesh Patidar is continuing work on EK-128; no blockers reported.,18/Feb/26 1:23 PM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Hrishikesh Patidar is working on EK-128 with no blockers reported.,18/Feb/26 1:30 PM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Hrishikesh Patidar will focus on implementing frontend UI components today. No blockers reported.,20/Feb/26 7:47 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Hrishikesh is focused on completing the tasks for EK-128 today. No blockers have been identified.,"20/Feb/26 7:49 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Hrishikesh will continue working on EK-128 today, concentrating on the frontend UI components.",20/Feb/26 10:45 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Hrishikesh Patidar continues work on EK-128 today with no blockers reported.,20/Feb/26 10:50 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Hrishikesh Patidar is working on completing the remaining parts of the frontend UI components for ticket EK-128. The work is expected to be completed today. No blockers reported.,20/Feb/26 11:01 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Hrishikesh completed the work on EK-128. He requested reassignment to Ankit for further action.,20/Feb/26 11:27 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Hrishikesh Patidar reported that he will be continuing work on EK-128. No blockers were mentioned.,"20/Feb/26 11:32 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Hrishikesh Patidar is actively working on EK-128, continuing the development of frontend UI components. He has no blockers and is on track with his tasks.",20/Feb/26 11:38 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Hrishikesh Patidar is working on EK-128 with no reported blockers.,"20/Feb/26 11:43 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Hrishikesh Patidar is continuing with the implementation of frontend UI components for the project. No blockers have been reported for this ticket, and work is ongoing.",,,,,,,,,,,,,,,,,,12205,EK-13,Strengthen password policy & validation,In Progress,20/Feb/26 11:01 AM
+Develop backend API for implement passwordless login via otp,EK-111,12303,Sub-task,In Progress,EK,EKart,software,Arpit,712020:eb7cff89-bb1f-4672-b13c-722fc8294d67,,,Medium,,Arpit Desai,712020:1ea6dfa5-146f-4a81-9778-7bf0e1c7923c,Arpit,712020:eb7cff89-bb1f-4672-b13c-722fc8294d67,Arpit,712020:eb7cff89-bb1f-4672-b13c-722fc8294d67,25/Nov/25 6:19 AM,20/Feb/26 11:27 AM,20/Feb/26 11:33 AM,,,0,Develop backend API for feature for story: Implement passwordless login via OTP,,Arpit,Hrishikesh Patidar,Sarah Conner,,712020:eb7cff89-bb1f-4672-b13c-722fc8294d67,712020:1c274a7e-e4f2-4e1a-95ca-d503d357f0cb,712020:01d30681-24ab-40aa-89dd-6673c211e706,,,,,,,,,,,,,,,EK-929,EK-930,EK-939,EK-940,EK-943,EK-944,EK-945,EK-946,EK-947,EK-948,EK-949,EK-951,EK-952,EK-953,EK-954,EK-962,EK-963,EK-964,EK-965,EK-978,EK-979,EK-980,EK-988,EK-989,EK-996,EK-997,EK-998,EK-999,EK-1000,EK-1001,EK-1002,EK-1003,EK-1004,EK-1005,EK-1006,EK-1007,EK-1010,EK-1011,EK-1012,EK-1014,EK-1016,EK-1025,EK-1026,EK-1027,EK-1030,EK-1033,EK-1034,EK-1035,EK-1038,EK-1039,EK-1042,EK-1043,EK-1046,EK-1047,EK-1049,EK-1056,EK-1057,EK-1060,EK-1061,EK-1066,EK-1067,EK-1068,EK-1077,EK-1078,EK-1086,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@2a43bac7,,,,,,,,,,,,,ONLINE-0003,,,,,,,,,,Arpit Desai is continuing work on EK-111 today.,,,,0|i00e27:,,,,,,,EK Sprint 1,,,,,,,,,,,,,,,2025-12-17 20:02:43.411,,"17/Dec/25 12:02 PM;712020:1c274a7e-e4f2-4e1a-95ca-d503d357f0cb;[Standup Summary - 2025-12-17 20:02]
+
+Work completed by Arpit Desai.",24/Jan/26 12:20 PM;712020:1c274a7e-e4f2-4e1a-95ca-d503d357f0cb;Awaiting requirements from Ankit.,24/Jan/26 1:15 PM;712020:1c274a7e-e4f2-4e1a-95ca-d503d357f0cb;Completed.,24/Jan/26 1:30 PM;712020:1c274a7e-e4f2-4e1a-95ca-d503d357f0cb;Blocked due to dependency on Ankit.,26/Jan/26 8:13 AM;712020:1c274a7e-e4f2-4e1a-95ca-d503d357f0cb;Waiting for UI/UX designs from Ankit.,26/Jan/26 10:56 AM;712020:1c274a7e-e4f2-4e1a-95ca-d503d357f0cb;Completed.,26/Jan/26 1:50 PM;712020:1c274a7e-e4f2-4e1a-95ca-d503d357f0cb;Coordination with Ankit is needed.,27/Jan/26 9:18 AM;712020:1c274a7e-e4f2-4e1a-95ca-d503d357f0cb;No further action needed.,27/Jan/26 9:25 AM;712020:1c274a7e-e4f2-4e1a-95ca-d503d357f0cb;Ankit to provide final UI/UX designs.,02/Feb/26 11:07 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Moving on to EK-112.,06/Feb/26 10:14 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Assigned to Ankit for review.,06/Feb/26 10:32 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Completed.,"09/Feb/26 7:41 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Meeting Summary - 2026-02-09
+
+# Meeting Summary
+
+## Topics Discussed
+- Yesterday I worked on EK 127. Today we'll continue...
+- All set....
+- Up....
+- Some regenerative...
+- exception....
+
+## Decisions Made
+- To be extracted from conversation
+
+## Action Items
+- To be extracted from conversation
+
+## Jira Tickets Mentioned
+- EK-111
+- EK-113
+
+## Participants
+- Hrishikesh Patidar
+- Arpit Desai
+
+---
+Generated at: 2026-02-09 15:41:35 UTC
+
+---
+Relevant context for this ticket:
+
+Relevant chat messages:
+[15:40:59] Arpit Desai: <span itemtype=""http://schema.skype.com/Mention"" itemscope="""" itemid=""0"">Sarah</span>&nbsp;Yesterday was on EK-111
+","10/Feb/26 9:28 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Meeting Summary - 2026-02-10
+
+# Meeting Summary
+
+## Topics Discussed
+- Yesterday I worked on ticket EK 120. Continuing on...
+- Same ticket, no blockers....
+- Yesterday. Worked on a key 127....
+- I will continue on ek 128. No blockers....
+- Yes, we can. What about...
+
+## Decisions Made
+- To be extracted from conversation
+
+## Action Items
+- To be extracted from conversation
+
+## Jira Tickets Mentioned
+- EK-111
+
+## Participants
+- Ankit Mehta
+- Hrishikesh Patidar
+- Arpit Desai
+
+---
+Generated at: 2026-02-10 17:28:51 UTC
+
+---
+Relevant context for this ticket:
+
+Relevant chat messages:
+[17:26:45] Arpit Desai: <span itemtype=""http://schema.skype.com/Mention"" itemscope="""" itemid=""0"">Sarah</span>&nbsp;Yesterday worked on EK-111
+","10/Feb/26 9:33 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Meeting Summary - 2026-02-10
+
+# Meeting Summary
+
+## Topics Discussed
+- Ankit is not on the call can be skipping....
+- I need ui specifications from anki....
+- Yesterday, wagdon ek 127. Today we'll continue on ...
+- Yes....
+- Why you are not spoken that. Hold on and goodbye. ...
+
+## Decisions Made
+- To be extracted from conversation
+
+## Action Items
+- To be extracted from conversation
+
+## Jira Tickets Mentioned
+- EK-111
+- EK-120
+
+## Participants
+- Arpit Desai
+- Hrishikesh Patidar
+
+---
+Generated at: 2026-02-10 17:33:30 UTC
+
+---
+Relevant context for this ticket:
+
+Relevant chat messages:
+[17:31:22] Arpit Desai: <span itemtype=""http://schema.skype.com/Mention"" itemscope="""" itemid=""0"">Sarah</span>&nbsp;Yesterday worked on Ek-111, Today will be on same ticket and am blocked
+","10/Feb/26 9:52 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Meeting Summary - 2026-02-10
+
+# Meeting Summary
+
+## Topics Discussed
+- Hi, sarah. Yes. Today I worked on ticket ek 120. T...
+- Yes, we can close....
+
+## Decisions Made
+- To be extracted from conversation
+
+## Action Items
+- To be extracted from conversation
+
+## Jira Tickets Mentioned
+- EK-127
+- EK-128
+- EK-111
+
+## Participants
+- Ankit Mehta
+- Hrishikesh Patidar
+
+---
+Generated at: 2026-02-10 17:52:51 UTC
+
+---
+Relevant context for this ticket:
+
+Relevant chat messages:
+[17:51:37] Arpit Desai: <span itemtype=""http://schema.skype.com/Mention"" itemscope="""" itemid=""0"">Sarah</span>&nbsp;Yesterday was on EK-111 and today will be on same and no blockers
+","10/Feb/26 10:06 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Meeting Summary - 2026-02-10
+
+# Meeting Summary
+
+## Topics Discussed
+- Hi, Sarah. Yesterday. I've got to get EK 120. I'll...
+- blockers....
+- Today I'm doing the same. No blockers....
+- No blockers, Sarah. Thank you....
+- We can close. Thank you....
+
+## Decisions Made
+- To be extracted from conversation
+
+## Action Items
+- To be extracted from conversation
+
+## Jira Tickets Mentioned
+- EK-127
+- EK-128
+- EK-111
+
+## Participants
+- Ankit Mehta
+- Arpit Desai
+- Hrishikesh Patidar
+
+---
+Generated at: 2026-02-10 18:06:45 UTC
+
+---
+Relevant context for this ticket:
+
+Relevant chat messages:
+[18:04:54] Arpit Desai: <span itemtype=""http://schema.skype.com/Mention"" itemscope="""" itemid=""0"">Sarah</span>&nbsp;Yesterday was on EK-111
+",10/Feb/26 12:10 PM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Completed and ready for review.,10/Feb/26 12:37 PM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Continuing work on EK-111.,12/Feb/26 11:06 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;EK-111 is done and needs review by Ankit.,12/Feb/26 11:56 PM;712020:01d30681-24ab-40aa-89dd-6673c211e706;EK-111 has been completed by Arpit Desai and will be reassigned to Ankit Mehta.,13/Feb/26 12:08 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;No blockers reported.,13/Feb/26 5:50 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Continuing work on EK-111 today.,13/Feb/26 9:16 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Needs review by Ankit.,13/Feb/26 9:47 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Backend API development for passwordless login completed.,"13/Feb/26 12:50 PM;712020:01d30681-24ab-40aa-89dd-6673c211e706;EK-111 was reported as completed by Arpit, who worked on the backend API development. The task involved implementing the required functionalities and ensuring they meet the project requirements. Ankit was suggested as the new assignee to take over any further actions or maintenance on this ticket.",13/Feb/26 12:55 PM;712020:01d30681-24ab-40aa-89dd-6673c211e706;EK-111 is now completed by Arpit.,"13/Feb/26 1:07 PM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Arpit is focusing on EK-111 today, continuing the tasks assigned. No blockers are reported, and he is progressing as planned.",13/Feb/26 1:32 PM;712020:01d30681-24ab-40aa-89dd-6673c211e706;I worked on EK-111 yesterday. No blockers.,"16/Feb/26 7:10 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Arpit was on leave yesterday, plans to work on EK-111 today.","16/Feb/26 9:21 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Arpit Desai is working on EK-111, developing the backend API for implementing passwordless login via OTP.","16/Feb/26 9:26 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Arpit completed EK-111, which involved developing the backend API for passwordless login through OTP verification.",16/Feb/26 9:58 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Yesterday I worked on EK-111. It has been done.,16/Feb/26 10:14 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Arpit Desai completed the backend API for implementing passwordless login via OTP.,"16/Feb/26 10:29 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Arpit finished the work on the backend API for EK-111, allowing for passwordless login via OTP. No blockers were reported.",16/Feb/26 10:42 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Arpit Desai has completed the development and testing of the backend API for EK-111. The ticket is now marked as completed.,"17/Feb/26 9:43 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Arpit completed the work on EK-111 yesterday, and the task is now marked as done.",17/Feb/26 10:28 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Arpit completed EK-111.,17/Feb/26 10:34 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Arpit made progress on EK-111 with no blockers reported.,20/Feb/26 7:47 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Arpit continued development on the backend API for implementing passwordless login via OTP. No blockers were reported for this task.,"20/Feb/26 7:49 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Arpit worked on EK-111 yesterday, focusing on the backend API for passwordless login via OTP.",20/Feb/26 11:27 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Arpit Desai reported progress on EK-111 and will continue working on it today. No blockers were mentioned.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12203,EK-11,Implement passwordless login via OTP,In Progress,17/Feb/26 10:33 AM
+Prepare deployment notes,EK-118,12310,Sub-task,To Do,EK,EKart,software,Arpit,712020:eb7cff89-bb1f-4672-b13c-722fc8294d67,,,Medium,,Prem Jain,712020:24717c90-9e0c-4fbd-b5c1-f7cacf9c5e19,Arpit,712020:eb7cff89-bb1f-4672-b13c-722fc8294d67,Arpit,712020:eb7cff89-bb1f-4672-b13c-722fc8294d67,25/Nov/25 6:19 AM,20/Feb/26 10:59 AM,20/Feb/26 12:31 PM,,,0,Prepare deployment notes for story: Implement passwordless login via OTP,,Arpit,Sarah Conner,,,712020:eb7cff89-bb1f-4672-b13c-722fc8294d67,712020:01d30681-24ab-40aa-89dd-6673c211e706,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@3743bbf7,,,,,,,,,,,,,ONLINE-0010,,,,,,,,,,,,,,0|i00e3r:,,,,,,,EK Sprint 1,,,,,,,,,,,,,,,2026-02-05 22:10:11.96,,"05/Feb/26 2:10 PM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Meeting Summary - 2026-02-05
+
+# Meeting Summary
+
+## Topics Discussed
+- She's here....
+- Hey, Sarah. I have worked on EK 128 yesterday. I p...
+- I collaborated on EK 128 with Rishikesh yesterday ...
+- That is right. I'm missing requirements from produ...
+- today....
+
+## Decisions Made
+- To be extracted from conversation
+
+## Action Items
+- To be extracted from conversation
+
+## Jira Tickets Mentioned
+- EK-115
+- EK-118
+
+## Participants
+- Divya Bhanushali
+- Prem Jain
+- Hrishikesh Patidar
+- Ankit Mehta
+- Arpit Desai
+
+---
+Generated at: 2026-02-05 22:10:11 UTC
+
+---
+Relevant context for this ticket:
+
+Relevant chat messages:
+[22:05:05] Hrishikesh Patidar: EK-115 to EK-118
+",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12203,EK-11,Implement passwordless login via OTP,To Do,25/Nov/25 6:19 AM
+Perform QA functional testing,EK-116,12308,Sub-task,In Progress,EK,EKart,software,Arpit,712020:eb7cff89-bb1f-4672-b13c-722fc8294d67,,,Medium,,Prem Jain,712020:24717c90-9e0c-4fbd-b5c1-f7cacf9c5e19,Arpit,712020:eb7cff89-bb1f-4672-b13c-722fc8294d67,Arpit,712020:eb7cff89-bb1f-4672-b13c-722fc8294d67,25/Nov/25 6:19 AM,20/Feb/26 10:59 AM,20/Feb/26 10:59 AM,,,0,Perform QA functional testing for story: Implement passwordless login via OTP,,Arpit,Sarah Conner,,,712020:eb7cff89-bb1f-4672-b13c-722fc8294d67,712020:01d30681-24ab-40aa-89dd-6673c211e706,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@17040075,,,,,,,,,,,,,ONLINE-0008,,,,,,,,,,Starting work on EK-116.,,,,0|i00e3b:,,,,,,,EK Sprint 1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12203,EK-11,Implement passwordless login via OTP,In Progress,17/Feb/26 10:34 AM
+Prepare deployment notes,EK-134,12326,Sub-task,In Progress,EK,EKart,software,Arpit,712020:eb7cff89-bb1f-4672-b13c-722fc8294d67,,,Medium,,Divya,712020:7e2e56e6-e055-4e98-9cce-8430dc3baf5d,Arpit,712020:eb7cff89-bb1f-4672-b13c-722fc8294d67,Arpit,712020:eb7cff89-bb1f-4672-b13c-722fc8294d67,25/Nov/25 6:19 AM,20/Feb/26 10:57 AM,20/Feb/26 10:56 AM,,,0,Prepare deployment notes for story: Strengthen password policy & validation,,Arpit,Hrishikesh Patidar,Sarah Conner,,712020:eb7cff89-bb1f-4672-b13c-722fc8294d67,712020:1c274a7e-e4f2-4e1a-95ca-d503d357f0cb,712020:01d30681-24ab-40aa-89dd-6673c211e706,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@53a4a4d6,,,,,,,,,,,,,ONLINE-0028,,,,,,,,,,Blocked due to backend API dependencies.,,,,0|i00e7b:,,,,,,,EK Sprint 1,,,,,,,,,,,,,,,2026-01-24 21:30:07.362,,24/Jan/26 1:30 PM;712020:1c274a7e-e4f2-4e1a-95ca-d503d357f0cb;Blocked due to missing requirements.,11/Feb/26 3:14 PM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Blocked: waiting on requirements from Ankit.,11/Feb/26 3:19 PM;712020:01d30681-24ab-40aa-89dd-6673c211e706;I'm blocked. I need some requirements from the product team.,18/Feb/26 2:19 PM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Divya confirmed that the blocker related to waiting on UI/UX designs from Arpit is resolved.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12205,EK-13,Strengthen password policy & validation,In Progress,05/Feb/26 2:04 PM
+Fix bugs found during QA,EK-133,12325,Sub-task,In Progress,EK,EKart,software,Arpit,712020:eb7cff89-bb1f-4672-b13c-722fc8294d67,,,Medium,,Divya,712020:7e2e56e6-e055-4e98-9cce-8430dc3baf5d,Arpit,712020:eb7cff89-bb1f-4672-b13c-722fc8294d67,Arpit,712020:eb7cff89-bb1f-4672-b13c-722fc8294d67,25/Nov/25 6:19 AM,20/Feb/26 10:56 AM,20/Feb/26 10:56 AM,,,0,Fix bugs found during QA for story: Strengthen password policy & validation,,Arpit,Sarah Conner,,,712020:eb7cff89-bb1f-4672-b13c-722fc8294d67,712020:01d30681-24ab-40aa-89dd-6673c211e706,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@1d730052,,,,,,,,,,,,,ONLINE-0027,,,,,,,,,,"Completed, to be reviewed by Arpit.",,,,0|i00e73:,,,,,,,EK Sprint 1,,,,,,,,,,,,,,,2026-02-06 18:14:30.043,,06/Feb/26 10:14 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Blocked due to requirements needed from Ankit.,06/Feb/26 10:32 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Ankit to assist Divya.,06/Feb/26 10:37 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Divya confirmed the UI requirements for 2 factor authentication after Ankit shared the details and clarified the branding color theme.,11/Feb/26 3:14 PM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Completed EK-133; reassignment to Arpit noted.,11/Feb/26 3:19 PM;712020:01d30681-24ab-40aa-89dd-6673c211e706;I plan to work on EK-133 today.,13/Feb/26 10:03 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Divya mentioned that she is blocked on EK-133 due to missing requirements from Ankit. She cannot complete the ticket without them.,"13/Feb/26 10:15 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Ankit confirmed that the requirements are resolved, unblocking Divya.",13/Feb/26 12:55 PM;712020:01d30681-24ab-40aa-89dd-6673c211e706;EK-133 is done by Divya.,13/Feb/26 1:16 PM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Divya is working on EK-133 today with no blockers reported.,13/Feb/26 1:58 PM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Divya is planning to work on EK-133 but is blocked waiting for UI/UX design for the login page. Prem is expected to assist with the design.,13/Feb/26 2:00 PM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Divya confirmed that the blocker related to UI/UX design from Prem is resolved.,15/Feb/26 7:39 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Divya confirmed that the blocker related to pending requirements is resolved.,17/Feb/26 10:34 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Divya completed EK-133 and it's ready to be taken over by Ankit.,18/Feb/26 1:30 PM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Divya Bhanushali needs login page details from Rishikesh to proceed with EK-133.,"18/Feb/26 2:17 PM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Divya completed fixing the bugs found during QA, and the ticket is ready to be assigned to Ankit.",20/Feb/26 9:30 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Completed and can be assigned to Arpit for review.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12205,EK-13,Strengthen password policy & validation,In Progress,20/Feb/26 10:51 AM
+Write unit tests,EK-122,12314,Sub-task,In Progress,EK,EKart,software,Arpit,712020:eb7cff89-bb1f-4672-b13c-722fc8294d67,,,Medium,,Ilya,712020:fb988daa-ead9-4028-b210-2a9399111bd6,Arpit,712020:eb7cff89-bb1f-4672-b13c-722fc8294d67,Arpit,712020:eb7cff89-bb1f-4672-b13c-722fc8294d67,25/Nov/25 6:19 AM,20/Feb/26 9:30 AM,,,,0,Write unit tests for story: Add social login with Google & Apple,,Arpit,Hrishikesh Patidar,Sarah Conner,,712020:eb7cff89-bb1f-4672-b13c-722fc8294d67,712020:1c274a7e-e4f2-4e1a-95ca-d503d357f0cb,712020:01d30681-24ab-40aa-89dd-6673c211e706,,,,,,,,,,,,,,,EK-1079,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@56754ce4,,,,,,,,,,,,,ONLINE-0015,,,,,,,,,,Continued work with no blockers.,,,,0|i00e4n:,,,,,,,EK Sprint 1,,,,,,,,,,,,,,,2026-01-02 22:22:16.458,,02/Jan/26 2:22 PM;712020:1c274a7e-e4f2-4e1a-95ca-d503d357f0cb;Ankit Mehta will start working on EK-122 today as discussed in the standup.,20/Feb/26 9:30 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Continued work with no blockers.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12204,EK-12,Add social login with Google & Apple,In Progress,02/Jan/26 2:22 PM
+Integrate API with UI,EK-113,12305,Sub-task,In Progress,EK,EKart,software,Arpit,712020:eb7cff89-bb1f-4672-b13c-722fc8294d67,,,Medium,,Arpit Desai,712020:1ea6dfa5-146f-4a81-9778-7bf0e1c7923c,Arpit,712020:eb7cff89-bb1f-4672-b13c-722fc8294d67,Arpit,712020:eb7cff89-bb1f-4672-b13c-722fc8294d67,25/Nov/25 6:19 AM,20/Feb/26 7:49 AM,20/Feb/26 7:50 AM,,,0,Integrate API with UI for story: Implement passwordless login via OTP,,Arpit,Hrishikesh Patidar,Sarah Conner,,712020:eb7cff89-bb1f-4672-b13c-722fc8294d67,712020:1c274a7e-e4f2-4e1a-95ca-d503d357f0cb,712020:01d30681-24ab-40aa-89dd-6673c211e706,,,,,,,,,,,,,,,EK-917,EK-918,EK-945,EK-979,EK-980,EK-981,EK-983,EK-987,EK-988,EK-989,EK-991,EK-992,EK-993,EK-995,EK-1011,EK-1024,EK-1026,EK-1028,EK-1029,EK-1030,EK-1032,EK-1033,EK-1037,EK-1038,EK-1039,EK-1040,EK-1041,EK-1042,EK-1043,EK-1048,EK-1049,EK-1050,EK-1051,EK-1052,EK-1056,EK-1058,EK-1059,EK-1060,EK-1061,EK-1066,EK-1067,EK-1068,EK-1077,EK-1078,,,,,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@37566075,,,,,,,,,,,,,ONLINE-0005,,,,,,,,,,Arpit will work on integrating the API with UI.,,,,0|i00e2b:,,,,,,,EK Sprint 1,,,,,,,,,,,,,,,2025-12-17 20:02:45.039,,"17/Dec/25 12:02 PM;712020:1c274a7e-e4f2-4e1a-95ca-d503d357f0cb;[Standup Summary - 2025-12-17 20:02]
+
+Arpit Desai will work on this ticket next.",23/Jan/26 11:58 AM;712020:1c274a7e-e4f2-4e1a-95ca-d503d357f0cb;Finalizing requirements needed.,"09/Feb/26 7:41 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Meeting Summary - 2026-02-09
+
+# Meeting Summary
+
+## Topics Discussed
+- Yesterday I worked on EK 127. Today we'll continue...
+- All set....
+- Up....
+- Some regenerative...
+- exception....
+
+## Decisions Made
+- To be extracted from conversation
+
+## Action Items
+- To be extracted from conversation
+
+## Jira Tickets Mentioned
+- EK-111
+- EK-113
+
+## Participants
+- Hrishikesh Patidar
+- Arpit Desai
+
+---
+Generated at: 2026-02-09 15:41:35 UTC
+
+---
+Relevant context for this ticket:
+
+Relevant chat messages:
+[15:41:11] Arpit Desai: <span itemtype=""http://schema.skype.com/Mention"" itemscope="""" itemid=""0"">Sarah</span>&nbsp;Today will be on EK-113
+",12/Feb/26 11:06 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Blocked due to requirement from the product team.,12/Feb/26 4:10 PM;712020:01d30681-24ab-40aa-89dd-6673c211e706;No blockers reported.,12/Feb/26 11:56 PM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Blocked: Waiting on requirements from Divya (product team).,13/Feb/26 1:14 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Arpit mentioned a blocker and needs product requirements.,13/Feb/26 1:26 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Blocked and waiting on Ankit for updated UI/UX requirements.,13/Feb/26 3:24 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Waiting for Ankit's input to proceed.,13/Feb/26 3:28 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Arpit confirmed that the blocker related to awaiting UI/UX designs from Ankit is resolved.,13/Feb/26 4:20 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Arpit confirmed that the blocker related to UI/UX input from Ankit is resolved.,13/Feb/26 5:50 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Need product help to proceed with EK-113.,13/Feb/26 9:10 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Working on EK-113; requires Ankit's assistance for UX/UI.,13/Feb/26 9:14 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Arpit confirmed that the blocker is resolved.,"13/Feb/26 9:47 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Integrating API with UI, but blocked due to missing authentication requirements.",13/Feb/26 9:54 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Arpit worked on EK-113 yesterday and is continuing today. The work is blocked due to the need for specification details from the Product team.,13/Feb/26 10:03 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Arpit stated that he is awaiting UI specifications from Divya for EK-113.,"13/Feb/26 10:15 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Ankit confirmed that the authentication requirements issue is resolved, allowing Arpit to proceed.",13/Feb/26 10:36 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Arpit confirmed that the blocker related to awaiting UI specifications from Divya is resolved.,13/Feb/26 12:50 PM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Arpit is working on EK-113 but reported a blocker requiring product team's input. He mentioned needing specific guidance from Ankit to continue. The task includes integrating new features and resolving existing issues.,13/Feb/26 12:55 PM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Arpit mentioned no blockers for EK-113.,13/Feb/26 1:16 PM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Arpit is planning to work on EK-113 today but is awaiting product specifications from Divya. Blocker needs to be resolved.,"13/Feb/26 1:32 PM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Today we'll be working on EK-113, no blockers.","13/Feb/26 1:58 PM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Arpit Desai was on leave yesterday but plans to continue working on EK-113, focusing on integrating the API with the UI.",16/Feb/26 7:37 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Planned for today.,"16/Feb/26 9:22 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Arpit Desai is working on EK-113, focusing on integrating the API with the UI components.",16/Feb/26 9:26 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Arpit is focusing on integrating the API with the user interface components on ticket EK-113.,16/Feb/26 9:40 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Arpit requires UI/UX design from the designing team for EK-113.,16/Feb/26 9:58 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Today I'll be planning to work on EK-113. I am blocked. I need UI/UX design from Ankit.,16/Feb/26 10:14 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Arpit Desai will be working on integrating the API with the UI components.,"16/Feb/26 10:29 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Arpit continues with the integration of API with UI for EK-113, with no blockers reported.","16/Feb/26 10:42 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Arpit Desai is currently focused on integrating the API with the UI for EK-113. The work is ongoing, and no blockers have been reported.",17/Feb/26 9:43 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Arpit is progressing with EK-113 today. No blockers reported.,17/Feb/26 10:28 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Arpit continues work on EK-113 without any blockers.,17/Feb/26 10:34 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Arpit planned to work on EK-113 today and mentioned no blockers.,20/Feb/26 7:47 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Arpit plans to integrate the API with the UI today as per the project requirements. No blockers have been mentioned.,"20/Feb/26 7:49 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Arpit plans to work on EK-113 today, integrating the API with the UI.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12203,EK-11,Implement passwordless login via OTP,In Progress,17/Dec/25 12:02 PM
+Develop backend API for add social login with google & apple,EK-119,12311,Sub-task,In Progress,EK,EKart,software,Arpit,712020:eb7cff89-bb1f-4672-b13c-722fc8294d67,,,Medium,,Ankit Mehta,712020:dd1c8eba-d744-4c89-83cd-b243679ef964,Arpit,712020:eb7cff89-bb1f-4672-b13c-722fc8294d67,Arpit,712020:eb7cff89-bb1f-4672-b13c-722fc8294d67,25/Nov/25 6:19 AM,18/Feb/26 2:22 PM,20/Feb/26 6:53 AM,,,0,Develop backend API for feature for story: Add social login with Google & Apple,,Arpit,Hrishikesh Patidar,Sarah Conner,,712020:eb7cff89-bb1f-4672-b13c-722fc8294d67,712020:1c274a7e-e4f2-4e1a-95ca-d503d357f0cb,712020:01d30681-24ab-40aa-89dd-6673c211e706,,,,,,,,,,,,,,,EK-917,EK-918,EK-919,EK-1076,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@7e86b80a,,,,,,,,,,,,,ONLINE-0012,,,,,,,,,,Prem is starting work on the backend API for social login today.,,,,0|i00e3z:,,,,,,,EK Sprint 1,,,,,,,,,,,,,,,2026-01-02 22:22:13.719,,02/Jan/26 2:22 PM;712020:1c274a7e-e4f2-4e1a-95ca-d503d357f0cb;Ankit Mehta is currently working on EK-119 as discussed in today's standup.,"23/Jan/26 1:24 PM;712020:1c274a7e-e4f2-4e1a-95ca-d503d357f0cb;Blocked, waiting for testing environment details from Arpit.",18/Feb/26 2:17 PM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Prem has planned to start working on developing the backend API for social login as the previous task on EK-115 is completed.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12204,EK-12,Add social login with Google & Apple,In Progress,11/Dec/25 7:32 AM
+Write integration tests,EK-123,12315,Sub-task,In Progress,EK,EKart,software,Arpit,712020:eb7cff89-bb1f-4672-b13c-722fc8294d67,,,Medium,,Ankit Mehta,712020:dd1c8eba-d744-4c89-83cd-b243679ef964,Arpit,712020:eb7cff89-bb1f-4672-b13c-722fc8294d67,Arpit,712020:eb7cff89-bb1f-4672-b13c-722fc8294d67,25/Nov/25 6:19 AM,16/Feb/26 10:29 AM,,,,0,Write integration tests for story: Add social login with Google & Apple,,Arpit,Hrishikesh Patidar,Sarah Conner,,712020:eb7cff89-bb1f-4672-b13c-722fc8294d67,712020:1c274a7e-e4f2-4e1a-95ca-d503d357f0cb,712020:01d30681-24ab-40aa-89dd-6673c211e706,,,,,,,,,,,,,,,EK-1020,EK-1024,EK-1041,EK-1046,EK-1047,EK-1049,EK-1053,EK-1054,EK-1055,EK-1060,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@32ca4bba,,,,,,,,,,,,,ONLINE-0016,,,,,,,,,,Starting on writing integration tests.,,,,0|i00e4v:,,,,,,,EK Sprint 1,,,,,,,,,,,,,,,2025-12-19 21:55:39.192,,"19/Dec/25 1:55 PM;712020:1c274a7e-e4f2-4e1a-95ca-d503d357f0cb;Hrishikesh has started work on EK-123 as discussed in today's standup, with clear requirements.",11/Feb/26 3:03 PM;712020:01d30681-24ab-40aa-89dd-6673c211e706;I worked on EK-123 yesterday.,12/Feb/26 4:10 PM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Blocked by Prem from Product team.,12/Feb/26 4:10 PM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Divya confirmed that the blocker is resolved.,"13/Feb/26 1:32 PM;712020:01d30681-24ab-40aa-89dd-6673c211e706;I plan to work on EK-123 today, and I have no blockers. Collaborating with Arpit.",16/Feb/26 5:47 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Ankit plans to work on EK-123 today and has no blockers.,"16/Feb/26 10:29 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Ankit is set to begin work on EK-123, particularly on writing integration tests. No blockers were reported.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12204,EK-12,Add social login with Google & Apple,In Progress,19/Dec/25 1:55 PM
+Implement frontend UI components,EK-112,12304,Sub-task,In Progress,EK,EKart,software,Arpit,712020:eb7cff89-bb1f-4672-b13c-722fc8294d67,,,Medium,,Arpit Desai,712020:1ea6dfa5-146f-4a81-9778-7bf0e1c7923c,Arpit,712020:eb7cff89-bb1f-4672-b13c-722fc8294d67,Arpit,712020:eb7cff89-bb1f-4672-b13c-722fc8294d67,25/Nov/25 6:19 AM,13/Feb/26 3:52 AM,09/Feb/26 3:32 PM,,,0,Implement frontend UI components for story: Implement passwordless login via OTP,,Arpit,Hrishikesh Patidar,Sarah Conner,,712020:eb7cff89-bb1f-4672-b13c-722fc8294d67,712020:1c274a7e-e4f2-4e1a-95ca-d503d357f0cb,712020:01d30681-24ab-40aa-89dd-6673c211e706,,,,,,,,,,,,,,,EK-918,EK-921,EK-922,EK-962,EK-963,EK-964,EK-965,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@1a56027f,,,,,,,,,,,,,ONLINE-0004,,,,,,,,,,Arpit Desai is focusing on EK-112.,,,,0|i00e2f:,,,,,,,EK Sprint 1,,,,,,,,,,,,,,,2026-01-02 22:22:26.167,,02/Jan/26 2:22 PM;712020:1c274a7e-e4f2-4e1a-95ca-d503d357f0cb;Arpit Desai worked on EK-112 yesterday and plans to pick up EK-114 today.,23/Jan/26 10:13 AM;712020:1c274a7e-e4f2-4e1a-95ca-d503d357f0cb;Assigned to Hrishikesh for review.,23/Jan/26 11:58 AM;712020:1c274a7e-e4f2-4e1a-95ca-d503d357f0cb;Needs review.,23/Jan/26 12:16 PM;712020:1c274a7e-e4f2-4e1a-95ca-d503d357f0cb;Ready for review.,"23/Jan/26 12:41 PM;712020:1c274a7e-e4f2-4e1a-95ca-d503d357f0cb;Completed by Arpit, assigned to Ankit for review.",23/Jan/26 1:44 PM;712020:1c274a7e-e4f2-4e1a-95ca-d503d357f0cb;Completed and ready for review.,23/Jan/26 1:59 PM;712020:1c274a7e-e4f2-4e1a-95ca-d503d357f0cb;Ready for review.,13/Feb/26 3:52 AM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Arpit is working on EK-112 today.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12203,EK-11,Implement passwordless login via OTP,In Progress,09/Feb/26 3:42 PM
+Design RAG Operation Architecture,SM-1,13240,Story,In Progress,SM,ScrumMaster,software,Divya,712020:7e2e56e6-e055-4e98-9cce-8430dc3baf5d,,,Medium,,Ankit Mehta,712020:dd1c8eba-d744-4c89-83cd-b243679ef964,Divya,712020:7e2e56e6-e055-4e98-9cce-8430dc3baf5d,Divya,712020:7e2e56e6-e055-4e98-9cce-8430dc3baf5d,22/Dec/25 12:50 PM,12/Feb/26 3:13 PM,10/Feb/26 1:08 PM,,,0,Define and document the Retrieval Augmented Generation (RAG) architecture to support context-aware responses for the AI Scrum Master/PM agent.,,Divya,Sarah Conner,,,712020:7e2e56e6-e055-4e98-9cce-8430dc3baf5d,712020:01d30681-24ab-40aa-89dd-6673c211e706,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@2665ead7,,,,,,,,,,,,,,,,,,,,,,,,,,,0|i00j2v:,,,,,,,SCRUM Sprint 1,,,,,,,,,,,,,,,2026-02-10 23:18:48.078,,10/Feb/26 3:18 PM;712020:01d30681-24ab-40aa-89dd-6673c211e706;Yesterday I worked on SM-1. Today I'll be working on SM-1 also.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,In Progress,06/Jan/26 8:50 AM
+Write unit tests,EK-130,12322,Sub-task,In Progress,EK,EKart,software,Arpit,712020:eb7cff89-bb1f-4672-b13c-722fc8294d67,,,Medium,,Arpit Desai,712020:1ea6dfa5-146f-4a81-9778-7bf0e1c7923c,Arpit,712020:eb7cff89-bb1f-4672-b13c-722fc8294d67,Arpit,712020:eb7cff89-bb1f-4672-b13c-722fc8294d67,25/Nov/25 6:19 AM,11/Feb/26 3:19 PM,25/Jan/26 10:34 AM,,,0,Write unit tests for story: Strengthen password policy & validation,,Arpit,Hrishikesh Patidar,Sarah Conner,,712020:eb7cff89-bb1f-4672-b13c-722fc8294d67,712020:1c274a7e-e4f2-4e1a-95ca-d503d357f0cb,712020:01d30681-24ab-40aa-89dd-6673c211e706,,,,,,,,,,,,,,,EK-924,EK-925,EK-930,EK-931,EK-1022,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@ebb8e5,,,,,,,,,,,,,ONLINE-0024,,,,,,,,,,Divya worked on EK-130 and suggested reassignment to Arpit.,,,,0|i00e6f:,,,,,,,EK Sprint 1,,,,,,,,,,,,,,,2026-01-25 18:28:58.174,,25/Jan/26 10:28 AM;712020:1c274a7e-e4f2-4e1a-95ca-d503d357f0cb;Unit tests written.,11/Feb/26 3:19 PM;712020:01d30681-24ab-40aa-89dd-6673c211e706;I worked on EK-130 yesterday. That can be assigned to Arpit.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12205,EK-13,Strengthen password policy & validation,In Progress,25/Jan/26 10:34 AM
+Time Optimization of Agent Response,SM-2,13273,Story,To Do,SM,ScrumMaster,software,Divya,712020:7e2e56e6-e055-4e98-9cce-8430dc3baf5d,,,Medium,,Hrishikesh Patidar,712020:1c274a7e-e4f2-4e1a-95ca-d503d357f0cb,Divya,712020:7e2e56e6-e055-4e98-9cce-8430dc3baf5d,Divya,712020:7e2e56e6-e055-4e98-9cce-8430dc3baf5d,05/Jan/26 9:07 AM,10/Feb/26 1:09 PM,18/Feb/26 1:20 PM,,,0,,,Divya,,,,712020:7e2e56e6-e055-4e98-9cce-8430dc3baf5d,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@471e5841,,,,,,,,,,,,,,,,,,,,,,,,,,,0|i00j33:,,,,,,,SCRUM Sprint 1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,To Do,05/Jan/26 9:07 AM
+Integrate API with UI,EK-129,12321,Sub-task,In Progress,EK,EKart,software,Arpit,712020:eb7cff89-bb1f-4672-b13c-722fc8294d67,,,Medium,,Hrishikesh Patidar,712020:1c274a7e-e4f2-4e1a-95ca-d503d357f0cb,Arpit,712020:eb7cff89-bb1f-4672-b13c-722fc8294d67,Arpit,712020:eb7cff89-bb1f-4672-b13c-722fc8294d67,25/Nov/25 6:19 AM,10/Feb/26 12:19 PM,10/Feb/26 12:10 PM,,,0,Integrate API with UI for story: Strengthen password policy & validation,,Arpit,Hrishikesh Patidar,,,712020:eb7cff89-bb1f-4672-b13c-722fc8294d67,712020:1c274a7e-e4f2-4e1a-95ca-d503d357f0cb,,,,,,,,,,,,,,,,EK-922,EK-924,EK-925,EK-926,EK-927,EK-930,EK-1011,EK-1013,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@2800e21c,,,,,,,,,,,,,ONLINE-0023,,,,,,,,,,"Blocked, needs Ankit's help.",,,,0|i00e67:,,,,,,,EK Sprint 1,,,,,,,,,,,,,,,2026-01-24 19:53:17.242,,24/Jan/26 11:53 AM;712020:1c274a7e-e4f2-4e1a-95ca-d503d357f0cb;Hrishikesh completed the task.,"24/Jan/26 12:12 PM;712020:1c274a7e-e4f2-4e1a-95ca-d503d357f0cb;Completed by Hrishikesh, reassigned to Arpit.",24/Jan/26 12:20 PM;712020:1c274a7e-e4f2-4e1a-95ca-d503d357f0cb;Requires assistance from Ankit.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12205,EK-13,Strengthen password policy & validation,In Progress,24/Jan/26 12:19 PM
+Bot Response Structure,SM-3,13274,Story,In Progress,SM,ScrumMaster,software,Divya,712020:7e2e56e6-e055-4e98-9cce-8430dc3baf5d,,,Medium,,Divya,712020:7e2e56e6-e055-4e98-9cce-8430dc3baf5d,Divya,712020:7e2e56e6-e055-4e98-9cce-8430dc3baf5d,Divya,712020:7e2e56e6-e055-4e98-9cce-8430dc3baf5d,05/Jan/26 9:16 AM,05/Feb/26 12:41 PM,05/Feb/26 12:41 PM,,,0,"# *Short Response*
+Provide brief acknowledgements to keep the conversation active and confirm the bot is listening.
+
+# *Long Response*
+Generate a structured response that prepares a draft list of Jira tickets *before* the participant/user speaks or shares their updates.
+
+# *Post-Update Action*
+After the user finishes providing their updates, the bot creates or updates the corresponding Jira tickets based on the discussion.",,Divya,,,,712020:7e2e56e6-e055-4e98-9cce-8430dc3baf5d,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@5ef471de,,,,,,,,,,,,,,,,,,,,,,,,,,,0|i00j3b:,,,,,,,SCRUM Sprint 1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,In Progress,12/Jan/26 10:13 AM
+Not able to login via email id,EK-914,13173,Support Bug,To Do,EK,EKart,software,Arpit,712020:eb7cff89-bb1f-4672-b13c-722fc8294d67,,,Medium,,,,Hrishikesh Patidar,712020:2890c809-5956-48b0-b46c-905bc26e8ecc,Hrishikesh Patidar,712020:2890c809-5956-48b0-b46c-905bc26e8ecc,11/Dec/25 1:25 PM,03/Feb/26 10:02 AM,,,,0,,,Hrishikesh Patidar,,,,712020:2890c809-5956-48b0-b46c-905bc26e8ecc,,,,,,,,,,,,,,,,EK-13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@34c37be,,,,,,,,,,,,,,,,,,,,,,,,,,,0|i00j2n:,,,,,,,EK Sprint 1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12193,EK-1,User Authentication & Security,To Do,11/Dec/25 1:25 PM
+The Response is coming in more than 10 sec,EK-913,13171,Production Bug,To Do,EK,EKart,software,Arpit,712020:eb7cff89-bb1f-4672-b13c-722fc8294d67,,,Medium,,,,Hrishikesh Patidar,712020:2890c809-5956-48b0-b46c-905bc26e8ecc,Hrishikesh Patidar,712020:2890c809-5956-48b0-b46c-905bc26e8ecc,11/Dec/25 11:50 AM,03/Feb/26 10:02 AM,,,,0,,,Hrishikesh Patidar,,,,712020:2890c809-5956-48b0-b46c-905bc26e8ecc,,,,,,,,,,,,,,,,EK-13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@4e40f98c,,,,,,,,,,,,,,,,,,,,,,,,,,,0|i00j2f:,,,,,,,EK Sprint 1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12193,EK-1,User Authentication & Security,To Do,11/Dec/25 11:50 AM
+User is not able to login ,EK-912,13138,Bug,To Do,EK,EKart,software,Arpit,712020:eb7cff89-bb1f-4672-b13c-722fc8294d67,,,Medium,,,,Hrishikesh Patidar,712020:2890c809-5956-48b0-b46c-905bc26e8ecc,Hrishikesh Patidar,712020:2890c809-5956-48b0-b46c-905bc26e8ecc,11/Dec/25 7:30 AM,03/Feb/26 10:02 AM,,,,0,,,Hrishikesh Patidar,,,,712020:2890c809-5956-48b0-b46c-905bc26e8ecc,,,,,,,,,,,,,,,,EK-13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@52dcaadf,,,,,,,,,,,,,,,,,,,,,,,,,,,0|i00j27:,,,,,,,EK Sprint 1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,To Do,11/Dec/25 7:30 AM
+Issue in reloading the page,EK-911,13136,Bug,In Progress,EK,EKart,software,Arpit,712020:eb7cff89-bb1f-4672-b13c-722fc8294d67,,,Medium,,,,Hrishikesh Patidar,712020:2890c809-5956-48b0-b46c-905bc26e8ecc,Hrishikesh Patidar,712020:2890c809-5956-48b0-b46c-905bc26e8ecc,11/Dec/25 7:26 AM,03/Feb/26 10:02 AM,,,,0,,,Hrishikesh Patidar,,,,712020:2890c809-5956-48b0-b46c-905bc26e8ecc,,,,,,,,,,,,,,,,EK-13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@1c1591a3,,,,,,,,,,,,,,,,,,,,,,,,,,,0|i00j1z:,,,,,,,EK Sprint 1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,In Progress,11/Dec/25 7:28 AM
+Strengthen password policy & validation,EK-13,12205,Story,In Progress,EK,EKart,software,Arpit,712020:eb7cff89-bb1f-4672-b13c-722fc8294d67,,,Medium,,,,Arpit,712020:eb7cff89-bb1f-4672-b13c-722fc8294d67,Arpit,712020:eb7cff89-bb1f-4672-b13c-722fc8294d67,25/Nov/25 6:18 AM,03/Feb/26 10:02 AM,,,,0,"As a user, I want to strengthen password policy & validation.
+
+Acceptance Criteria:
+Given the user is interacting with the system
+When they perform actions related to 'Strengthen password policy & validation'
+Then the system should respond with correct workflow, validation, and feedback.",,Arpit,Hrishikesh Patidar,,,712020:eb7cff89-bb1f-4672-b13c-722fc8294d67,712020:2890c809-5956-48b0-b46c-905bc26e8ecc,,,,,,,,,,,EK-911,EK-912,EK-913,EK-914,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@78ea3a36,,,,,,,,,,,,,ONLINE-0020,,,,,,,,,,,,,,0|i00dgf:,,,,,,,EK Sprint 1,,,8.0,,,,,,,,,,,,2025-12-11 15:51:48.364,,11/Dec/25 7:51 AM;712020:2890c809-5956-48b0-b46c-905bc26e8ecc;I started working on this story.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12193,EK-1,User Authentication & Security,In Progress,16/Dec/25 4:46 AM
+Write unit tests,EK-114,12306,Sub-task,In Progress,EK,EKart,software,Arpit,712020:eb7cff89-bb1f-4672-b13c-722fc8294d67,,,Medium,,Arpit Desai,712020:1ea6dfa5-146f-4a81-9778-7bf0e1c7923c,Arpit,712020:eb7cff89-bb1f-4672-b13c-722fc8294d67,Arpit,712020:eb7cff89-bb1f-4672-b13c-722fc8294d67,25/Nov/25 6:19 AM,26/Jan/26 10:55 AM,,,,0,Write unit tests for story: Implement passwordless login via OTP,,Arpit,Hrishikesh Patidar,,,712020:eb7cff89-bb1f-4672-b13c-722fc8294d67,712020:1c274a7e-e4f2-4e1a-95ca-d503d357f0cb,,,,,,,,,,,,,,,,EK-945,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@1a6fecd7,,,,,,,,,,,,,ONLINE-0006,,,,,,,,,,Arpit Desai stated he plans to pick up EK-114 today.,,,,0|i00e2v:,,,,,,,EK Sprint 1,,,,,,,,,,,,,,,2026-01-02 22:22:28.426,,02/Jan/26 2:22 PM;712020:1c274a7e-e4f2-4e1a-95ca-d503d357f0cb;Arpit Desai will start working on EK-114 today as discussed.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12203,EK-11,Implement passwordless login via OTP,In Progress,02/Jan/26 2:22 PM
+Fix bugs found during QA,EK-117,12309,Sub-task,To Do,EK,EKart,software,Arpit,712020:eb7cff89-bb1f-4672-b13c-722fc8294d67,,,Medium,,Prem Jain,712020:24717c90-9e0c-4fbd-b5c1-f7cacf9c5e19,Arpit,712020:eb7cff89-bb1f-4672-b13c-722fc8294d67,Arpit,712020:eb7cff89-bb1f-4672-b13c-722fc8294d67,25/Nov/25 6:19 AM,22/Jan/26 3:27 PM,20/Feb/26 10:59 AM,,,0,Fix bugs found during QA for story: Implement passwordless login via OTP,,Arpit,,,,712020:eb7cff89-bb1f-4672-b13c-722fc8294d67,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@540603b4,,,,,,,,,,,,,ONLINE-0009,,,,,,,,,,,,,,0|i00e3j:,,,,,,,EK Sprint 1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12203,EK-11,Implement passwordless login via OTP,To Do,25/Nov/25 6:19 AM
+Integrate API with UI,EK-121,12313,Sub-task,In Progress,EK,EKart,software,Arpit,712020:eb7cff89-bb1f-4672-b13c-722fc8294d67,,,Medium,,Ankit Mehta,712020:dd1c8eba-d744-4c89-83cd-b243679ef964,Arpit,712020:eb7cff89-bb1f-4672-b13c-722fc8294d67,Arpit,712020:eb7cff89-bb1f-4672-b13c-722fc8294d67,25/Nov/25 6:19 AM,21/Jan/26 11:32 AM,21/Jan/26 11:34 AM,,,0,Integrate API with UI for story: Add social login with Google & Apple,,Arpit,Hrishikesh Patidar,,,712020:eb7cff89-bb1f-4672-b13c-722fc8294d67,712020:1c274a7e-e4f2-4e1a-95ca-d503d357f0cb,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@7083a587,,,,,,,,,,,,,ONLINE-0014,,,,,,,,,,Working on today with no blockers,,,,0|i00e4f:,,,,,,,EK Sprint 1,,,,,,,,,,,,,,,2025-12-17 18:15:07.083,,"17/Dec/25 10:15 AM;712020:1c274a7e-e4f2-4e1a-95ca-d503d357f0cb;[Standup Summary - 2025-12-17 18:15]
+
+Standup update from Ankit Mehta: <at>Bytevolt-pm-meeting</at> I have started on EK-121. nOTHING ELSE FROM MY END","17/Dec/25 10:32 AM;712020:1c274a7e-e4f2-4e1a-95ca-d503d357f0cb;[Standup Summary - 2025-12-17 18:32]
+
+Standup update from Ankit Mehta: <at>Bytevolt-pm-meeting</at> I am working on EK-121. Nothing else from my end.","18/Dec/25 11:55 AM;712020:1c274a7e-e4f2-4e1a-95ca-d503d357f0cb;[Standup Summary - 2025-12-18 19:55]
+
+Standup update from Ankit Mehta: The work for EK-121 is in progress with no reported blockers.",21/Jan/26 10:23 AM;712020:1c274a7e-e4f2-4e1a-95ca-d503d357f0cb;No blockers reported.,21/Jan/26 11:32 AM;712020:1c274a7e-e4f2-4e1a-95ca-d503d357f0cb;No blockers reported,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12204,EK-12,Add social login with Google & Apple,In Progress,18/Dec/25 11:55 AM
+Implement passwordless login via OTP,EK-11,12203,Story,In Progress,EK,EKart,software,Arpit,712020:eb7cff89-bb1f-4672-b13c-722fc8294d67,,,High,,Arpit Desai,712020:1ea6dfa5-146f-4a81-9778-7bf0e1c7923c,Arpit,712020:eb7cff89-bb1f-4672-b13c-722fc8294d67,Arpit,712020:eb7cff89-bb1f-4672-b13c-722fc8294d67,25/Nov/25 6:18 AM,02/Jan/26 11:07 AM,,,,0,"As a user, I want to implement passwordless login via otp.
+
+Acceptance Criteria:
+Given the user is interacting with the system
+When they perform actions related to 'Implement passwordless login via OTP'
+Then the system should respond with correct workflow, validation, and feedback.",,Arpit,,,,712020:eb7cff89-bb1f-4672-b13c-722fc8294d67,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@29f90c66,,,,,,,,,,,,,ONLINE-0002,,,,,,,,,,,,,,0|i00dfz:,,,,,,,EK Sprint 1,,,5.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12193,EK-1,User Authentication & Security,In Progress,11/Dec/25 7:32 AM
+Add social login with Google & Apple,EK-12,12204,Story,In Progress,EK,EKart,software,Arpit,712020:eb7cff89-bb1f-4672-b13c-722fc8294d67,,,Low,,Ankit Mehta,712020:dd1c8eba-d744-4c89-83cd-b243679ef964,Arpit,712020:eb7cff89-bb1f-4672-b13c-722fc8294d67,Arpit,712020:eb7cff89-bb1f-4672-b13c-722fc8294d67,25/Nov/25 6:18 AM,19/Dec/25 9:22 AM,,,,0,"As a user, I want to add social login with google & apple.
+
+Acceptance Criteria:
+Given the user is interacting with the system
+When they perform actions related to 'Add social login with Google & Apple'
+Then the system should respond with correct workflow, validation, and feedback.",,Arpit,Hrishikesh Patidar,,,712020:eb7cff89-bb1f-4672-b13c-722fc8294d67,712020:1c274a7e-e4f2-4e1a-95ca-d503d357f0cb,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@19511e66,,,,,,,,,,,,,ONLINE-0011,,,,,,,,,,,,,,0|i00dg7:,,,,,,,EK Sprint 1,,,13.0,,,,,,,,,,,,,,"16/Dec/25 9:54 AM;712020:eb7cff89-bb1f-4672-b13c-722fc8294d67;[Standup Summary - 2025-12-16 23:24]
+
+Ankit started working on this.","16/Dec/25 10:53 AM;712020:eb7cff89-bb1f-4672-b13c-722fc8294d67;[Standup Summary - 2025-12-16 18:53]
+
+Ankit started working on this.","16/Dec/25 12:51 PM;712020:eb7cff89-bb1f-4672-b13c-722fc8294d67;[Standup Summary - 2025-12-16 20:51]
+
+Ankit started working on this.","16/Dec/25 12:56 PM;712020:eb7cff89-bb1f-4672-b13c-722fc8294d67;[Standup Summary - 2025-12-16 20:56]
+
+Ankit started working on this.","16/Dec/25 1:18 PM;712020:eb7cff89-bb1f-4672-b13c-722fc8294d67;[Standup Summary - 2025-12-16 21:18]
+
+Ankit started working on this.","16/Dec/25 1:34 PM;712020:eb7cff89-bb1f-4672-b13c-722fc8294d67;[Standup Summary - 2025-12-16 21:34]
+
+Ankit started working on this.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12193,EK-1,User Authentication & Security,In Progress,16/Dec/25 1:34 PM
+Prepare deployment notes,EK-126,12318,Sub-task,To Do,EK,EKart,software,Arpit,712020:eb7cff89-bb1f-4672-b13c-722fc8294d67,,,Medium,,,,Arpit,712020:eb7cff89-bb1f-4672-b13c-722fc8294d67,Arpit,712020:eb7cff89-bb1f-4672-b13c-722fc8294d67,25/Nov/25 6:19 AM,25/Nov/25 6:26 AM,23/Jan/26 7:28 AM,,,0,Prepare deployment notes for story: Add social login with Google & Apple,,Arpit,,,,712020:eb7cff89-bb1f-4672-b13c-722fc8294d67,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@566e07d4,,,,,,,,,,,,,ONLINE-0019,,,,,,,,,,,,,,0|i00e5j:,,,,,,,EK Sprint 1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12204,EK-12,Add social login with Google & Apple,To Do,25/Nov/25 6:19 AM
+Fix bugs found during QA,EK-125,12317,Sub-task,To Do,EK,EKart,software,Arpit,712020:eb7cff89-bb1f-4672-b13c-722fc8294d67,,,Medium,,,,Arpit,712020:eb7cff89-bb1f-4672-b13c-722fc8294d67,Arpit,712020:eb7cff89-bb1f-4672-b13c-722fc8294d67,25/Nov/25 6:19 AM,25/Nov/25 6:26 AM,,,,0,Fix bugs found during QA for story: Add social login with Google & Apple,,Arpit,,,,712020:eb7cff89-bb1f-4672-b13c-722fc8294d67,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@79510ae0,,,,,,,,,,,,,ONLINE-0018,,,,,,,,,,,,,,0|i00e5b:,,,,,,,EK Sprint 1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12204,EK-12,Add social login with Google & Apple,To Do,25/Nov/25 6:19 AM
+Perform QA functional testing,EK-124,12316,Sub-task,To Do,EK,EKart,software,Arpit,712020:eb7cff89-bb1f-4672-b13c-722fc8294d67,,,Medium,,,,Arpit,712020:eb7cff89-bb1f-4672-b13c-722fc8294d67,Arpit,712020:eb7cff89-bb1f-4672-b13c-722fc8294d67,25/Nov/25 6:19 AM,25/Nov/25 6:26 AM,,,,0,Perform QA functional testing for story: Add social login with Google & Apple,,Arpit,,,,712020:eb7cff89-bb1f-4672-b13c-722fc8294d67,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@749bc585,,,,,,,,,,,,,ONLINE-0017,,,,,,,,,,,,,,0|i00e53:,,,,,,,EK Sprint 1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12204,EK-12,Add social login with Google & Apple,To Do,25/Nov/25 6:19 AM
