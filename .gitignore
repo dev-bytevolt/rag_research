@@ -1,1 +1,4 @@
 .DS_Store
+.vscode
+product_manager_mock/tmp_sound/*
+__pycache__
