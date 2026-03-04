@@ -1,11 +1,12 @@
 import os
 import queue
 import threading
+import time
 from pathlib import Path
 from typing import Optional
 
 from gtts import gTTS
-from playsound import playsound
+from pygame import mixer
 
 
 class TTSEngine:
@@ -27,6 +28,8 @@ class TTSEngine:
 
         self._worker_thread: Optional[threading.Thread] = None
         self._player_thread: Optional[threading.Thread] = None
+        self._current_channel_lock = threading.Lock()
+        self._current_channel: Optional[object] = None
 
     def start(self) -> None:
         """
@@ -49,14 +52,28 @@ class TTSEngine:
 
     def stopPlayback(self) -> None:
         """
-        Stop any pending playback and clear queues without stopping threads.
+        Stop any playback (including the current sound) and clear queues
+        without stopping threads.
 
         This clears both the text and audio queues and deletes any queued
         or on-disk MP3 files. The background worker and player threads stay
         alive so new text chunks can be enqueued and played afterwards.
-        The currently playing audio chunk may continue until its underlying
-        `playsound` call returns.
+        If audio is currently playing via `pygame.mixer`, it is stopped
+        immediately.
         """
+        # Stop the sound that is currently being played, if any.
+        channel: Optional[object] = None
+        with self._current_channel_lock:
+            channel = self._current_channel
+        if channel is not None:
+            try:
+                # `Channel` exposes `stop()`; using `object` typing to avoid
+                # depending on pygame's stubs.
+                channel.stop()  # type: ignore[union-attr]
+            except Exception:
+                # Best-effort stop; ignore any errors from the audio backend.
+                pass
+
         # Drain the text queue so no further TTS work is performed for
         # already-queued text. Preserve any sentinel that might have been
         # enqueued by `close()`.
@@ -139,13 +156,28 @@ class TTSEngine:
         Consume generated MP3 files from the queue and play them one after
         another, deleting each file after it has been played.
         """
+        if not mixer.get_init():
+            mixer.init()
+
         while True:
             file_path = self._audio_queue.get()
             if file_path is None:
                 break
+
+            channel = None
             try:
-                playsound(str(file_path))
+                sound = mixer.Sound(str(file_path))
+                channel = sound.play()
+                with self._current_channel_lock:
+                    self._current_channel = channel
+
+                # Wait until playback is finished (or stopped).
+                while channel.get_busy():
+                    time.sleep(0.05)
             finally:
+                with self._current_channel_lock:
+                    if self._current_channel is channel:
+                        self._current_channel = None
                 try:
                     os.remove(file_path)
                 except OSError:

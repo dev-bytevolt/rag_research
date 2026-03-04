@@ -1,5 +1,5 @@
 SpeechRecognition
 pyaudio
-playsound
 gTTS
 OpenAI
+pygame
