@@ -37,56 +37,67 @@ def substitute_templates(prompt: str, prompts:dict[str:str]) -> str:
     return prompt
 
 def getUserInput(tts: TTSEngine) -> str:
+    voice_enabled = tts.is_enabled()
+
     while True:
-        user_input = input("\nYou say [TYPE your prompt OR leave field empty and press ENTER to speak]: ").strip()
+        if voice_enabled:
+            prompt = "\nYou say [TYPE your prompt OR leave field empty and press ENTER to speak]: "
+        else:
+            prompt = "\nYou say [TYPE your prompt]: "
+
+        user_input = input(prompt).strip()
         tts.stopPlayback()
+
         if user_input != "":
             return user_input
-        else:
-            recognizer = sr.Recognizer()
-            try:
-                with sr.Microphone() as source:
-                    # Adjust for ambient noise.
-                    recognizer.adjust_for_ambient_noise(source, duration=0.5)
-                    print("Listening... (press ENTER when done)")
 
-                    audio_buffer = io.BytesIO()
+        if not voice_enabled:
+            continue
 
-                    while True:
-                        # If user pressed ENTER, stop recording.
-                        rlist, _, _ = select.select([sys.stdin], [], [], 0)
-                        if sys.stdin in rlist:
-                            _ = sys.stdin.readline()
-                            break
+        recognizer = sr.Recognizer()
+        try:
+            with sr.Microphone() as source:
+                # Adjust for ambient noise.
+                recognizer.adjust_for_ambient_noise(source, duration=0.5)
+                print("Listening... (press ENTER when done)")
 
-                        # Read raw audio frames from the microphone stream.
-                        data = source.stream.read(source.CHUNK)
-                        if not data:
-                            break
-                        audio_buffer.write(data)
+                audio_buffer = io.BytesIO()
 
-                    if audio_buffer.tell() == 0:
-                        print("No audio captured.")
-                        continue
+                while True:
+                    # If user pressed ENTER, stop recording.
+                    rlist, _, _ = select.select([sys.stdin], [], [], 0)
+                    if sys.stdin in rlist:
+                        _ = sys.stdin.readline()
+                        break
 
-                    audio = sr.AudioData(
-                        audio_buffer.getvalue(),
-                        source.SAMPLE_RATE,
-                        source.SAMPLE_WIDTH,
-                    )
-            except Exception as e:
-                print(f"Error accessing microphone: {e}")
-                continue
+                    # Read raw audio frames from the microphone stream.
+                    data = source.stream.read(source.CHUNK)
+                    if not data:
+                        break
+                    audio_buffer.write(data)
 
-            print("Transcribing your speech...")
-            try:
-                text = recognizer.recognize_google(audio)
-                text = text.strip()
-                print(f"You said: {text}")
-                return text
-            except sr.UnknownValueError:
-                print("Sorry, I could not understand what you said.")
-                continue
-            except sr.RequestError as e:
-                print(f"Speech recognition service error: {e}")
-                continue
+                if audio_buffer.tell() == 0:
+                    print("No audio captured.")
+                    continue
+
+                audio = sr.AudioData(
+                    audio_buffer.getvalue(),
+                    source.SAMPLE_RATE,
+                    source.SAMPLE_WIDTH,
+                )
+        except Exception as e:
+            print(f"Error accessing microphone: {e}")
+            continue
+
+        print("Transcribing your speech...")
+        try:
+            text = recognizer.recognize_google(audio)
+            text = text.strip()
+            print(f"\nYou said: {text}")
+            return text
+        except sr.UnknownValueError:
+            print("Sorry, I could not understand what you said.")
+            continue
+        except sr.RequestError as e:
+            print(f"Speech recognition service error: {e}")
+            continue

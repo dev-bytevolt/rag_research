@@ -31,11 +31,26 @@ class TTSEngine:
         self._current_channel_lock = threading.Lock()
         self._current_channel: Optional[object] = None
 
+        # When False, this engine becomes a no-op: it will not start
+        # background workers, enqueue audio, or play sounds.
+        self._enabled: bool = True
+
+    def set_enabled(self, enabled: bool) -> None:
+        """Enable or disable all audio output for this engine."""
+        self._enabled = enabled
+
+    def is_enabled(self) -> bool:
+        """Return True if this engine is currently enabled."""
+        return self._enabled
+
     def start(self) -> None:
         """
         Start background threads for TTS processing and audio playback.
         Safe to call multiple times; threads are created only if needed.
         """
+        if not self._enabled:
+            return
+
         if self._player_thread is None or not self._player_thread.is_alive():
             self._player_thread = threading.Thread(
                 target=self._audio_player_worker,
@@ -61,6 +76,9 @@ class TTSEngine:
         If audio is currently playing via `pygame.mixer`, it is stopped
         immediately.
         """
+        if not self._enabled:
+            return
+
         # Stop the sound that is currently being played, if any.
         channel: Optional[object] = None
         with self._current_channel_lock:
@@ -116,6 +134,9 @@ class TTSEngine:
         """
         Signal workers to finish processing and wait for them to exit.
         """
+        if not self._enabled:
+            return
+
         if self._worker_thread is not None:
             # Tell the TTS worker there is no more text to process.
             self._text_queue.put(None)
@@ -136,6 +157,8 @@ class TTSEngine:
         The worker buffers these pieces until it decides to speak a
         full sentence or line.
         """
+        if not self._enabled:
+            return
         self._text_queue.put(text_piece)
 
     def _enqueue_tts(self, text: str) -> None:

@@ -1,11 +1,12 @@
-import time
-import os
+import argparse
 import json
+import os
+import time
 
 from openai import OpenAI
 
 from pm_tts import TTSEngine
-from pm_prompts import load_system_prompts, getUserInput
+from pm_prompts import getUserInput, load_system_prompts
 
 openAIKey = "<YOUR OPEN AI TOKEN>"
 
@@ -95,20 +96,22 @@ def performEngineCycle(model: str, tts_engine: TTSEngine, system_prompts: dict[s
         except Exception as e:
             raise e
         
+        print("\n===================================")
+        if "document" in data and data["document"] != "":
+            doc = data["document"]
+            print("   DOCUMENT PRODUCED")
+            print("===================================")
+            print(doc)
+            conversation.append({"role": "assistant", "content": f"Here is the document:\n\n\n{doc}"})
+        else:
+            print("   NO DOCUMENT PRODUCED!")
+        print("===================================")
+
         if "message" in data and data["message"] != "":
             message = data["message"]
             print(f"\nPM: {message}")
             tts_engine.put_text_chunk(message+"\n")
             conversation.append({"role": "assistant", "content": message})
-
-        print("\n===================================")
-        if "document" in data and data["document"] != "":
-            print("   DOCUMENT PRODUCED")
-            print("===================================")
-            print(data["document"])
-        else:
-            print("   NO DOCUMENT PRODUCED!")
-        print("===================================")
 
     else:
         system_prompt = ""
@@ -141,7 +144,7 @@ def performEngineCycle(model: str, tts_engine: TTSEngine, system_prompts: dict[s
                 if not text_piece:
                     continue
 
-                if not startedPronouncing:
+                if tts_engine.is_enabled() and not startedPronouncing:
                     startedPronouncing = True
                     end = time.perf_counter()
                     elapsed = (end - start)
@@ -170,13 +173,26 @@ def performEngineCycle(model: str, tts_engine: TTSEngine, system_prompts: dict[s
 
 
 if __name__ == "__main__":
+    parser = argparse.ArgumentParser(description="Product manager mock")
+    parser.add_argument(
+        "--text-only",
+        action="store_true",
+        help="Disable TTS playback and microphone-based voice recognition.",
+    )
+    args = parser.parse_args()
+    text_only = args.text_only
+    text_only = True
+
     system_prompts = load_system_prompts()
     
     client = OpenAI(api_key=openAIKey)
+
     tts_engine = TTSEngine()
+    tts_engine.set_enabled(not text_only)
     tts_engine.start()
 
-    model = "gpt-4o-mini"
+    #model = "gpt-4o-mini"
+    model = "gpt-5.2-chat-latest"
 
     conversation = [{"role": "user", "content": ""}]
 
